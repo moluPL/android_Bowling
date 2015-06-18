@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="moja.paczka.namespace"
+    android:versionCode="1"
+    android:versionName="0.9" >
+
+    <uses-sdk android:targetSdkVersion="16"
+        android:minSdkVersion="14"
+        android:maxSdkVersion="19"
+     />
+	<uses-permission 
+	    android:required="true"
+	    android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application
+        android:allowBackup="true"
+        
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".PierwszyActivity"
+            android:label="@string/app_name" 
+            android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".Editor"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/ef" >
+        </activity>
+        <activity
+            android:name=".EditPlayer"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Edit_Player" >
+        </activity>
+        <activity
+            android:name=".Settings"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/main_settings" >
+        </activity>
+        <activity
+            android:name=".TEST"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Edit_Player" >
+        </activity>
+         <activity
+            android:name=".EditGames"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Edit_games" >
+        </activity>
+        <activity
+            android:name=".EditLeague"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Edit_League" >
+        </activity>
+         <activity
+            android:name=".Edit_Match_game"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Edit_Match_game_tittle" >
+        </activity>
+         <activity
+            android:name=".EditMatch"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Edit_Match_game_tittle" >
+        </activity>
+        <activity
+            android:name=".editTour"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Edit_Tournament" >
+        </activity>
+        <activity
+            android:name=".BackupRestore"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/BackupRestoreTitle" >
+        </activity>
+        <activity
+            android:name=".RestoreFromFile"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/btn_backup_from_file" >
+        </activity>
+        <activity
+            android:name=".DownloadData"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/download" >
+        </activity>
+        <activity
+            android:name=".Create_team"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/new_team" >
+        </activity>
+         <activity
+            android:name=".Oneplayer"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/one_player_quick_head" >
+        </activity>
+        
+         <!-- USUN  -->
+        <activity
+            android:name=".testowo"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/opg" >
+        </activity>
+        <activity
+            android:name=".TEST_PATTERNSdb"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/opg" >
+        </activity>
+        <!-- USUN ^ -->
+        <activity
+            android:name=".One_player_main"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/opg" >
+        </activity>
+        <activity
+            android:name=".One_player_list"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/opg" >
+        </activity>
+         <activity
+            android:name=".Create_player"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/new_player" >
+        </activity>
+        <activity
+            android:name=".Create_league"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/league_choose" >
+        </activity>
+        <activity
+            android:name=".Create_tournament"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/create_torunament" >
+        </activity>
+        <activity
+            android:name=".Team_main"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/team_head" >
+        </activity>
+        <activity
+            android:name=".Selecting_pattern"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/choose_pattern_txt" >
+        </activity>
+        <activity
+            android:name=".Select_edit"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Edit_Title" >
+        </activity>
+        <activity
+            android:name=".Graph_all_game"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Graph" >
+        </activity>
+         <activity
+            android:name=".allInfo"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/Graph" >
+        </activity>
+        <activity
+            android:name=".SettingTheme"
+			android:configChanges="orientation|screenSize"
+            android:label="@string/settings_theme" >
+        </activity>
+    </application>
+
+</manifest>

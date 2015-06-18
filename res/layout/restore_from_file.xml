@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/saveFileDialog"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    style="?backgroundTheme" 
+    android:orientation="vertical"
+    tools:ignore="ButtonStyle,InefficientWeight" >
+
+    <ListView
+        android:id="@+id/fileList"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:padding="10dp" />
+
+    <LinearLayout
+        android:id="@+id/fileLinearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <EditText
+            android:id="@+id/fileName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="none"
+            android:editable="false"
+            android:padding="10dp" />
+
+        <LinearLayout
+            android:id="@+id/fileLinearLayout3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/fileLoad"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                style="?buttonText"
+                android:padding="10dp"
+                android:text="@string/RestoreLoadText" />
+
+            <Button
+                android:id="@+id/fileCancel"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                style="?buttonText"
+                android:padding="10dp"
+                android:text="@string/cancel" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

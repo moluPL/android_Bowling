@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="AllInfoTxtViewLG" type="id"/>
+    <item name="AllInfoTxtViewLG2" type="id"/>
+    <item name="AllInfoTxtViewtour" type="id"/>
+    <item name="AllInfoTxtViewtour2" type="id"/>
+    <item name="Graph_all_Game_chart_spinner" type="id"/>
+</resources>

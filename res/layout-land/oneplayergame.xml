@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    	xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent" 
+        android:layout_height="match_parent"
+        style="?backgroundTheme" 
+        android:orientation="vertical">
+	<HorizontalScrollView 
+		android:id="@+id/horizontal_scroll_view1"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:scrollbars="horizontal">
+	     <TableLayout
+	        android:id="@+id/tl01"
+	 		android:layout_height="wrap_content"
+	 		android:layout_width="wrap_content"
+	    	>
+			<TableRow
+				android:id="@+id/OneplrGame_first_panelTXT"
+	           	android:layout_width="wrap_content"
+				android:layout_height="wrap_content">
+					<TextView
+						android:id="@+id/TxtHmg"
+						android:layout_height="wrap_content"
+						android:layout_width="fill_parent"
+						style="?textBody"
+						android:text="@string/hmg"
+	          		/>
+			</TableRow>
+			<TableRow
+	           	android:id="@+id/OneplrGame_first_panel"
+	           	android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+			>
+	        	<EditText 
+					android:id="@+id/Ethmg"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:inputType="number"
+					android:maxLength="2" />
+
+		        <Button
+		            android:id="@+id/hmgbtnOk"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:padding="10dp"
+		            style="?buttonText"
+		            android:onClick="click_ok"
+		            android:text="@android:string/ok" />
+
+			</TableRow>
+			<TableRow
+	    	android:id="@+id/OneplrGame_panel"
+	    	android:layout_height="wrap_content"
+  				android:layout_width="wrap_content"
+  				android:visibility="gone">
+		        <TableLayout
+			 		android:layout_height="wrap_content"
+			 		android:layout_width="wrap_content"
+			 		android:stretchColumns="*"
+			 		android:shrinkColumns="*"
+	    		>
+	    		<TableRow >
+			        <Button
+			            android:id="@+id/btn_save"
+			            android:text="@string/btn_save"
+			            android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						style="?buttonText"
+						android:onClick="save"
+						android:layout_weight="1"					
+			        />
+			       
+			         <Button
+			            android:id="@+id/btn_cancel"
+			            android:text="@string/cancel" 
+			            android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						style="?buttonText"
+			            android:onClick="finish"
+			            android:layout_weight="1"
+			            />
+		         </TableRow>
+		         <TableRow >
+			        <Button
+			            android:id="@+id/oneplayergamebtn_add"
+			            android:text="@string/add1game" 
+			            android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						style="?buttonText"
+						android:onClick="add"
+						android:layout_weight="1"
+			            />
+			         <Button
+			            android:id="@+id/btn_reset"
+			            android:text="@string/ResetAll" 
+			            android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						style="?buttonText"
+			            android:onClick="reset_all"
+			            android:layout_weight="1"
+			            />
+			        </TableRow>
+				  </TableLayout>      
+			</TableRow>
+			
+	        <TableRow
+	            android:id="@+id/OneplrGame_max"
+	    		android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:visibility="gone">            
+			</TableRow>
+	       <View 
+	           	android:layout_width="match_parent"
+                android:layout_height="4dp" 
+                android:background="@drawable/divider"/>
+	</TableLayout>
+</HorizontalScrollView>  
+    <ScrollView android:id="@+id/vertical_scroll_view"
+              android:layout_width="fill_parent" 
+              android:layout_height="wrap_content"
+              android:scrollbars="vertical">
+       <HorizontalScrollView 
+           		android:id="@+id/horizontal_scroll_view"
+            	android:layout_width="fill_parent" 
+            	android:layout_height="wrap_content"
+            	android:scrollbars="horizontal"
+            	android:fillViewport="true">
+       	
+				        
+			    <TableLayout android:id="@+id/main_table_layout"
+	                    android:layout_width="wrap_content"
+	    				android:layout_height="wrap_content" 
+	    				android:shrinkColumns="12"
+	    				android:layout_margin="10dp"
+	    				/>
+			
+		</HorizontalScrollView>
+	</ScrollView>
+</LinearLayout>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            style="?backgroundTheme"  >
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+     >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"  >
+
+        
+         <TextView
+        android:id="@+id/edit_player_one_player_choose_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+       style="?textBody"
+        android:text="@string/one_player_choose"
+         />
+         
+        <Spinner
+            android:id="@+id/edit_player_spinner_players"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="20dip"
+                        android:prompt="@string/spinner_title"  
+            />
+        
+    </LinearLayout>
+    
+    <TextView
+        android:id="@+id/edit_player_title_datas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        style="?textBody"
+        android:text="@string/Edit_Player_title_data"
+        />
+    
+    <TextView
+        android:id="@+id/edit_player_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        style="?textBody"
+        />
+
+    <EditText
+        android:id="@+id/edit_player_text_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+         />
+
+    <TextView
+        android:id="@+id/edit_player_surname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/surname"
+        style="?textBody"
+        />
+
+    <EditText
+        android:id="@+id/edit_player_text_surname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName" 
+        android:paddingLeft="10dp"
+        />
+
+    <TextView
+        android:id="@+id/edit_player_email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/email"
+        style="?textBody"
+        />
+
+    <EditText
+        android:id="@+id/edit_player_text_email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress" 
+        android:paddingLeft="10dp"
+        />
+
+    <TextView
+        android:id="@+id/edit_player_hand"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hand"
+        style="?textBody"
+        />
+
+    <RadioGroup
+        android:id="@+id/edit_player_radioGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/edit_player_radio1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/leftH" />
+
+        <RadioButton
+            android:id="@+id/edit_player_radio0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/rightH" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/edit_player_hometown"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hometown"
+        style="?textBody"/>
+
+    <EditText
+        android:id="@+id/edit_player_text_hometown"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPostalAddress" 
+        android:paddingLeft="10dp"/>
+    
+     <TextView
+        android:id="@+id/edit_player_age"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/age"
+        android:textSize="20sp" 
+        android:paddingLeft="10dp"/>
+
+    <EditText
+        android:id="@+id/edit_player_text_age"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal" 
+        android:paddingLeft="10dp"/>
+    
+    <TextView
+        android:id="@+id/edit_player_info"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_info"
+        android:textSize="12sp" 
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="#ff0000"/>
+    <TableLayout
+        android:id="@+id/edit_player_table_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"  
+   		android:stretchColumns="*"
+        >
+        <TableRow 
+            
+            android:id="@+id/edit_player_table_button_row"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        >
+
+        	<Button
+        	    android:id="@+id/edit_player_button_save"
+        	    android:layout_width="fill_parent"
+        	    android:layout_height="wrap_content"
+        	    style="?buttonText"
+        	    android:text="@string/btn_save" />
+
+        	<Button
+        	    android:id="@+id/edit_player_button_cancel"
+        	    
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    style="?buttonText"
+        	    android:text="@string/btn_cancel" />
+
+    	</TableRow>
+    		
+    
+    </TableLayout>
+
+</LinearLayout>
+</ScrollView>

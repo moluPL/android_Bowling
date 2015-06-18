@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="?backgroundTheme"
+        android:scrollbars="vertical" >
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/select_pat_vertical_scroll_view1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical" >
+
+        <HorizontalScrollView
+            android:id="@+id/select_pat_horizontal_scroll_view1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fadeScrollbars="false"
+            android:scrollbars="horizontal" >
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+            <TableLayout
+                android:id="@+id/select_pat_tl1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+				android:layout_marginTop="12dp"
+				android:gravity="left"
+				 
+                >
+
+                
+ 					
+ 					<TableRow 
+ 					    android:layout_width="fill_parent"
+                		android:layout_height="wrap_content">
+		                     <TextView
+		                        android:id="@+id/TxtHmg"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:layout_weight="1"
+		                        android:padding="5dp"
+		                        android:text="@string/how_much" />
+		                    <Spinner
+		                        android:id="@+id/select_pat_spinner_how_much_item"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:layout_weight="1" />
+
+                   		</TableRow>
+                   		<TableRow
+                   		     android:layout_width="fill_parent"
+                		android:layout_height="wrap_content" >
+
+		                    <Button
+		                        android:id="@+id/select_pat_btn_save"
+		                        style="?buttonText"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:layout_weight="1"
+		                        android:enabled="false"
+		                        android:padding="5dp"
+		                        android:text="@string/btn_save" />
+		                    
+
+		                    <Button
+		                        android:id="@+id/select_pat_btn_cancel"
+		                        style="?buttonText"
+								android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:layout_weight="1"
+		                        android:padding="5dp"
+		                        android:text="@string/cancel" />
+                	</TableRow>
+                	<TableRow 
+                	     android:layout_width="fill_parent"
+                		android:layout_height="wrap_content">
+                	    <Button
+		                        android:id="@+id/select_pattern_search_button"
+		                        style="?buttonText"
+		                        android:layout_weight="1"
+		                        android:layout_width="fill_parent"
+		                        android:layout_height="wrap_content"
+		                        android:text="@string/search" />
+                	    
+                	</TableRow>
+
+                <TableRow
+                    android:id="@+id/select_pat_navig_panel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:shrinkColumns="*"
+                    android:stretchColumns="*"
+                    android:visibility="gone" >
+
+                    <Button
+                        android:id="@+id/select_pat_btn_prev"
+                        android:padding="5dp"
+                        android:layout_width="0dp"
+                        android:layout_height="40dp"
+                        android:layout_weight="1"
+                        android:enabled="false"
+                        style="?buttonText"
+                        android:text="@string/prev" />
+
+                    <Button
+                        android:id="@+id/select_pat_btn_next"
+                        android:padding="5dp"
+                        android:layout_width="0dp"
+                        android:layout_height="40dp"
+                        android:layout_weight="1"
+                        android:enabled="false"
+                        style="?buttonText"
+                        android:text="@string/next" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/select_pat_TRsortTxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/select_pat_sortTxt"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        style="?textBody"
+                        android:text="@string/sort" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/select_pat_TRerror_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:id="@+id/select_pat_txtErrorDownload"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="?textBody" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/select_pat_TRdownload"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone" >
+
+                    <Button
+                        android:id="@+id/select_pat_btn_download"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        style="?buttonText"
+                        android:text="@string/download" />
+                </TableRow>
+
+            </TableLayout>
+            </LinearLayout>
+        </HorizontalScrollView>
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/select_pat_vertical_scroll_view2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:id="@+id/wrapper"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <HorizontalScrollView
+                android:id="@+id/select_pat_horizontal_scroll_view2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fadeScrollbars="false"
+                android:scrollbars="horizontal" >
+<LinearLayout 
+    android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                    
+                <TableLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+
+                    <TableRow android:id="@+id/select_pat_TRsort_panel"  android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:shrinkColumns="*" android:stretchColumns="*" android:visibility="gone">
+
+                        <Button android:id="@+id/select_pat_btn_srot_name" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" style="?buttonText" android:text="@string/names" />
+
+                        <Button android:id="@+id/select_pat_btn_srot_length" android:padding="5dp" style="?buttonText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/length" />
+
+                        <Button android:id="@+id/select_pat_btn_srot_ratio" android:padding="5dp" style="?buttonText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/ratio" />
+
+                        <Button android:id="@+id/select_pat_btn_srot_volume" android:padding="5dp" style="?buttonText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/volume" />
+
+                        <Button android:id="@+id/select_pat_btn_srot_opb" android:padding="5dp" style="?buttonText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:ellipsize="start" android:hint="@string/oilPerBoard" android:text="@string/opb" />
+
+                        <Button android:id="@+id/select_pat_btn_srot_db" android:padding="5dp" style="?buttonText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/db" />
+                    </TableRow>
+                </TableLayout><TableLayout
+                    android:id="@+id/tlPatterns"
+                    
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+                </TableLayout>
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <HorizontalScrollView
+                android:id="@+id/horizontalScrollView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                
+
+            </HorizontalScrollView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
+</ScrollView>

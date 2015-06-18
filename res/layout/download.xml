@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/downlin0"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+		style="?backgroundTheme"  
+        android:orientation="vertical" >
+        
+    <TextView
+            android:id="@+id/txtHeadDownload"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/download"
+            style="?textBody" />
+		
+	<TableLayout
+        android:id="@+id/table_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"  
+   		android:stretchColumns="*"
+        >
+        <TableRow 
+            android:id="@+id/table_button_row2"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        >
+
+	        <Button
+	            
+	            android:id="@+id/download_btn_start"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            style="?buttonText"
+	            android:text="@string/download_main" />
+	
+	        <Button
+	            android:id="@+id/download_btn_cancel"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            style="?buttonText"
+	            android:text="@string/cancel" />
+
+    	</TableRow>
+    	<TableRow >
+
+    	     <Button
+    	         android:id="@+id/download_btn_ok"
+    	         android:layout_width="wrap_content"
+    	         android:layout_height="wrap_content"
+    	         android:layout_weight="1"
+    	         style="?buttonText"
+    	         android:enabled="false"
+    	         android:onClick="finish"
+    	         android:text="@string/okAndBack" />
+
+    	</TableRow>
+    </TableLayout>
+    <ScrollView 
+     	android:id="@+id/scroll" 
+      	android:layout_width="fill_parent"
+      	android:layout_height="fill_parent">
+        
+        <LinearLayout
+        android:id="@+id/downlin1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+	        
+            <TextView 
+                android:id="@+id/txt1" 
+                android:layout_width="fill_parent"
+            	android:layout_height="wrap_content"
+            	style="?textBody" />
+	        </LinearLayout>>
+     </ScrollView>
+
+    </LinearLayout>
+

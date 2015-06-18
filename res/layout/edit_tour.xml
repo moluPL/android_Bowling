@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="?backgroundTheme"  
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"  >
+
+         <TextView
+             android:id="@+id/edit_Tour_TXT_choose_league"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:gravity="center"
+             android:padding="10dp"
+             android:text="@string/select_tour"
+             android:textSize="26sp" />
+         
+        <Spinner
+            android:id="@+id/edit_Tour_spinner_"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="20dip"
+                        android:prompt="@string/spinner_title"  
+            />
+        </LinearLayout>
+    <TextView
+        android:id="@+id/edit_tournament_nameTxtV"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_tour_name"
+        android:textSize="20sp"
+        android:paddingLeft="10dp" 
+        />
+
+    <EditText
+        android:id="@+id/edit_tournament_text_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+         />
+
+    <TextView
+        android:id="@+id/edit_tournament_homeTxtV"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_tour_Home"
+        android:textSize="20sp" 
+        android:paddingLeft="10dp"
+        />
+
+    <EditText
+        android:id="@+id/edit_tournament_text_home"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName" 
+        android:paddingLeft="10dp"
+        />
+    
+	<Button
+	    android:id="@+id/edit_tournament_btn_select_pattern"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    style="?buttonText"
+	    android:text="@string/choose_pattern_txt" />
+
+    <TextView
+        android:id="@+id/edit_tournament_patternTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_patR"
+        android:textSize="20sp" 
+        android:paddingLeft="10dp"
+        />
+    <TextView
+        android:id="@+id/edit_tournament_patternselectTXT"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" 
+        android:paddingLeft="10dp"
+        />
+    
+    <Button
+        android:id="@+id/edit_tournament_btn_select_pattern2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/choose_pattern_txt" />
+
+    <TextView
+        android:id="@+id/edit_tournament_patternTxt2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_patL"
+        android:textSize="20sp" 
+        android:paddingLeft="10dp"
+        />
+    <TextView
+        android:id="@+id/edit_tournament_patternselectTXT2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp" 
+        android:paddingLeft="10dp"
+        />
+
+    <CheckBox
+        android:id="@+id/edit_tournament_checkSame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/checkBoxPatternsSame" />
+
+    <CheckBox
+        android:id="@+id/edit_tournament_checkBoxUnknow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/checkUnknown" />
+    
+    <TableLayout
+        android:id="@+id/table_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"  
+   		android:stretchColumns="*"
+        >
+        <TableRow 
+            android:id="@+id/table_button_row"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        >
+
+        	<Button
+        	    android:id="@+id/edit_tournament_button_save"
+        	    
+        	    android:layout_width="fill_parent"
+        	    android:layout_height="wrap_content"
+        	    style="?buttonText"
+        	    android:text="@string/btn_save" />
+
+        	<Button
+        	    android:id="@+id/edit_tournament_button_cancel"
+        	    
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    style="?buttonText"
+        	    android:text="@string/btn_cancel" />
+
+    	</TableRow>
+    		
+    
+    </TableLayout>
+
+</LinearLayout>
+</ScrollView>

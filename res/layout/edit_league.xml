@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            style="?backgroundTheme"  
+            >
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"  >
+
+        
+         <TextView
+        android:id="@+id/edit_league_TXT_choose_league"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        style="?textBody"
+        android:text="@string/select_lg"
+        />
+         
+        <Spinner
+            android:id="@+id/edit_league_spinner_leagues"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dip"
+                        android:layout_marginRight="8dip"
+                        android:layout_marginTop="20dip"
+                        android:prompt="@string/spinner_title"  
+            />
+        </LinearLayout>
+    <TextView
+        android:id="@+id/edit_league_nameTxtV"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_lg_name"
+        style="?textBody" 
+        />
+
+    <EditText
+        android:id="@+id/edit_league_text_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+         />
+
+    <TextView
+        android:id="@+id/edit_league_homeTxtV"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_lg_Home"
+        style="?textBody"
+        />
+
+    <EditText
+        android:id="@+id/edit_league_text_home"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName" 
+        android:paddingLeft="10dp"
+        />
+    
+	<Button
+	    android:id="@+id/edit_league_btn_select_pattern"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    style="?buttonText"
+	    android:text="@string/choose_pattern_txt" />
+
+    <TextView
+        android:id="@+id/edit_league_patternTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_patR"
+        style="?textBody"
+        />
+    <TextView
+        android:id="@+id/edit_league_patternselectTXT"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?textBody"
+        />
+    
+    <Button
+        android:id="@+id/edit_league_btn_select_pattern2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/choose_pattern_txt" />
+
+    <TextView
+        android:id="@+id/edit_league_patternTxt2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_patL"
+        style="?textBody"
+        />
+    <TextView
+        android:id="@+id/edit_league_patternselectTXT2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?textBody"
+        />
+
+    <CheckBox
+        android:id="@+id/edit_league_checkSame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/checkBoxPatternsSame" />
+
+    <CheckBox
+        android:id="@+id/edit_league_checkBoxUnknow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/checkUnknown" />
+    
+    <TableLayout
+        android:id="@+id/edit_table_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"  
+   		android:stretchColumns="*"
+        >
+        <TableRow 
+            android:id="@+id/edit_table_button_row"
+            
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        >
+
+        	<Button
+        	    android:id="@+id/edit_league_button_save"
+        	    android:layout_width="fill_parent"
+        	    android:layout_height="wrap_content"
+        	    style="?buttonText"
+        	    android:text="@string/btn_save" />
+
+        	<Button
+        	    android:id="@+id/edit_league_button_cancel"
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    style="?buttonText"
+        	    android:text="@string/btn_cancel" />
+
+    	</TableRow>
+    		
+    
+    </TableLayout>
+
+</LinearLayout>
+</ScrollView>

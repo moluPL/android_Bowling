@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="?backgroundTheme" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+
+    <TextView
+        android:id="@+id/SelectChart_one_player_choose_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/one_player_choose"
+        android:textSize="26sp" />
+    <Spinner
+        android:id="@+id/SelectChart_spinner_choose_player"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:layout_marginTop="20dip"
+        
+        android:prompt="@string/spinner_title" />
+
+    <Button
+        android:id="@+id/SelectChart_allInfo_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/SelectChart_allInfo" />
+
+    <Button
+        android:id="@+id/SelectChart_allInfo_chart_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/SelectChart_allInfoCharts" />
+    
+     <TextView
+        android:id="@+id/SelectChart_choose_lg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/select_lg"
+        android:textSize="26sp" />
+    <Spinner
+        android:id="@+id/SelectChart_spinner_choose_lg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:layout_marginTop="20dip"
+        android:prompt="@string/spinner_title" />
+
+    <Button
+        android:id="@+id/SelectChart_charts_Lg_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/SelectChart_charts_Lg" />
+
+    <Button
+        android:id="@+id/SelectChart_allInfo_league_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/SelectChart_allInfo_league" />
+    
+     <TextView
+        android:id="@+id/SelectChart_select_tour_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/select_tour"
+        android:textSize="26sp" />
+    <Spinner
+        android:id="@+id/SelectChart_spinner_choose_tour"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:layout_marginTop="20dip"
+        android:prompt="@string/spinner_title" />
+
+    <Button
+        android:id="@+id/SelectChart_charts_tour_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/SelectChart_charts_tour" />
+
+    <Button
+        android:id="@+id/SelectChart_allInfo_tour_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/SelectChart_allInfo_tour" />
+
+    </LinearLayout>
+</ScrollView>

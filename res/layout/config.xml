@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:scrollbarFadeDuration="0" >
+
+ 	<LinearLayout
+      	android:orientation="vertical"
+ 		android:layout_width="fill_parent"
+ 		android:layout_height="wrap_content">
+     
+ 
+
+<!-- default Theme__________________________________________ -->
+
+ <LinearLayout
+     style="@style/default_theme"
+     android:layout_width="fill_parent"
+     android:layout_height="150dp"
+     android:gravity="center_vertical"
+     android:orientation="vertical" >
+
+     <TextView
+         style="@style/medium_body_text_white"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/config_test_Text" />
+
+	  <Button
+	   android:id="@+id/button1"
+	   style="@style/medium_button_text"
+	   android:layout_width="fill_parent"
+	   android:layout_height="wrap_content"
+	   android:text="@string/SthemeDefNorm"/>
+</LinearLayout>
+
+ <!-- default TABLET Theme LArge__________________________________________ -->
+
+ <LinearLayout
+     style="@style/default_theme"
+     android:layout_width="fill_parent"
+     android:layout_height="150dp"
+     android:gravity="center_vertical"
+     android:orientation="vertical" >
+
+     <TextView
+         style="@style/Tabletlarge_body_text_white"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/config_test_Text" />
+
+	  <Button
+	   android:id="@+id/button1LT"
+	   style="@style/Tabletlarge_button_text_white"
+	   android:layout_width="fill_parent"
+	   android:layout_height="wrap_content"
+	   android:text="@string/SthemeDefLargeTablet"/>
+</LinearLayout>
+<!-- default Theme LArge__________________________________________ -->
+
+ <LinearLayout
+     style="@style/default_theme"
+     android:layout_width="fill_parent"
+     android:layout_height="150dp"
+     android:gravity="center_vertical"
+     android:orientation="vertical" >
+
+     <TextView
+         style="@style/large_body_text"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/config_test_Text" />
+
+	  <Button
+	   android:id="@+id/button1L"
+	   style="@style/large_button_text"
+	   android:layout_width="fill_parent"
+	   android:layout_height="wrap_content"
+	   android:text="@string/SthemeDefLarge"/>
+</LinearLayout>
+ <!-- default Theme LArge__________________________________________ -->
+
+ <LinearLayout
+     style="@style/default_theme"
+     android:layout_width="fill_parent"
+     android:layout_height="150dp"
+     android:gravity="center_vertical"
+     android:orientation="vertical" >
+
+     <TextView
+         style="@style/large_body_text_green"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="@string/config_test_Text" />
+
+	  <Button
+	   android:id="@+id/button1LW"
+	   style="@style/large_button_text_green"
+	   android:layout_width="fill_parent"
+	   android:layout_height="wrap_content"
+	   android:text="@string/SthemeDefLargeWhite"/>
+</LinearLayout>
+ 
+ 
+ <!-- Grey Theme__________________________________________ -->
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/gray_gradient"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp"
+  >
+  
+		  <TextView
+		      style="@style/small_body_text"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+		  <Button
+		      style="@style/small_button_text"
+			   android:id="@+id/button2"
+			   android:layout_width="fill_parent"
+			   android:layout_height="wrap_content"
+			   android:text="@string/SthemeDefGRayS"/>
+</LinearLayout>
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/gray_gradient"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp"
+  >
+  
+		  <TextView
+		      style="@style/medium_body_text"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+		  <Button
+		      style="@style/medium_button_text"
+			   android:id="@+id/button2M"
+			   android:layout_width="fill_parent"
+			   android:layout_height="wrap_content"
+			   android:text="@string/SthemeDefGRayM"/>
+</LinearLayout>
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/gray_gradient"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp"
+  >
+  
+		  <TextView
+		      style="@style/large_body_text"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+		  <Button
+		      style="@style/large_button_text"
+			   android:id="@+id/button2L"
+			   android:layout_width="fill_parent"
+			   android:layout_height="wrap_content"
+			   android:text="@string/SthemeDefGRayL"/>
+</LinearLayout>
+ <!-- Radial Theme__________________________________________ -->
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/radial_gradient"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp">
+		  <TextView
+		         style="@style/large_body_text"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+		  <Button
+			   android:id="@+id/button3"
+			   android:layout_width="fill_parent"
+			   android:layout_height="wrap_content"
+			   style="@style/large_button_text"
+			   android:text="@string/SthemeRadialL"/>
+ </LinearLayout>
+ <!-- Golden Theme__________________________________________ -->
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/background_golden"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp">
+		  <TextView
+		         style="@style/small_body_text_golden"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+		  <Button
+			   android:id="@+id/button4"
+			   android:layout_width="fill_parent"
+			   android:layout_height="wrap_content"
+			   style="@style/small_button_text_golden"
+			   android:text="@string/SthemeGoldenS"/>
+  </LinearLayout>
+   <!-- Golden Theme MEDIUM__________________________________________ -->
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/background_golden"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp">
+		  <TextView
+		         style="@style/medium_body_text_golden"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+		  <Button
+			   android:id="@+id/button5"
+			   android:layout_width="fill_parent"
+			   android:layout_height="wrap_content"
+			   style="@style/medium_button_text_golden"
+			   android:text="@string/SthemeGoldenM"/>
+  </LinearLayout>
+  
+   <!-- Golden Theme LARGE__________________________________________ -->
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/background_golden"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp">
+		  <TextView
+		         style="@style/large_body_text_golden"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+		  <Button
+			   android:id="@+id/button5L"
+			   android:layout_width="fill_parent"
+			   android:layout_height="wrap_content"
+			   style="@style/large_button_text_golden"
+			   android:text="@string/SthemeGoldenL"/>
+  </LinearLayout>
+  
+ <!-- dark Theme__________________________________________ -->
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/background_pins"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp">
+		  <TextView
+		         style="@style/small_body_text_white"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+		  <Button
+		   android:id="@+id/button6"
+		   android:layout_width="fill_parent"
+		   android:layout_height="wrap_content"
+		   style="@style/small_button_text_white"
+		   android:text="@string/SThemeDarkSmall"/>
+ </LinearLayout> 
+  <!-- dark and  large Theme__________________________________________ -->
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/background_pins"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp">
+		  <TextView
+		         style="@style/large_body_text_white"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" />
+  <Button
+   android:id="@+id/button7"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   style="@style/large_button_text_white"
+   android:text="@string/SThemeDarkLargeWhite"/>
+  </LinearLayout>
+  <!-- dark small green Theme__________________________________________ -->
+<LinearLayout 
+  android:layout_width="fill_parent"
+  style="@style/background_pins"
+  android:orientation="vertical"
+  android:gravity="center_vertical"
+  android:layout_height="150dp">
+		  <TextView
+		         style="@style/small_body_text"
+		         android:layout_width="wrap_content"
+		         android:layout_height="wrap_content"
+		         android:text="@string/config_test_Text" /> 
+  <Button
+   android:id="@+id/button8"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   style="@style/small_button_text"
+   android:text="@string/SThemeDarkGreen"/>
+  </LinearLayout>
+</LinearLayout>
+ </ScrollView>
+

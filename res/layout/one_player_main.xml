@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+ <ScrollView 
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:id="@+id/vertical_scroll_view22"
+     android:layout_width="fill_parent" 
+     android:layout_height="match_parent"
+     style="?backgroundTheme"
+     android:scrollbars="vertical">
+              
+              
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/one_player_choose_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/one_player_choose"
+        android:textSize="26sp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:layout_marginTop="20dip"
+        android:prompt="@string/spinner_title" />
+
+    <Button
+        android:id="@+id/opg_play_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:padding="10dp"
+        android:text="@string/play" />
+
+    <Button
+        android:id="@+id/create_player_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:padding="10dp"
+        android:text="@string/new_player" />
+
+    <Button
+        android:id="@+id/quick_play_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:padding="10dp"
+        android:text="@string/quick_game" />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_btn"
+        android:visibility="gone" />
+
+     <Button
+         android:id="@+id/one_player_main_back"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         style="?buttonText"
+         android:text="@string/back" />
+     
+</LinearLayout>
+</ScrollView>

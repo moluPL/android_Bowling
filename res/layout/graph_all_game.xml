@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    style="?android:style/Theme.Black"
+    >
+    <LinearLayout
+        android:id="@+id/Graph_all_main_linlayout"
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical" />
+<ScrollView
+    		android:id="@+id/Graph_vertical_scroll_view"
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical"
+            android:fillViewport="true">
+       <HorizontalScrollView 
+           		android:id="@+id/Graph_horizontal_scroll_view"
+            	android:layout_width="fill_parent" 
+            	android:layout_height="wrap_content"
+            	android:scrollbars="horizontal"
+            	android:fillViewport="true">
+<LinearLayout 
+    android:id="@+id/GraphTest"
+    android:minHeight="600dp"
+    android:minWidth="600dp"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    
+     >
+</LinearLayout>
+</HorizontalScrollView>
+</ScrollView>
+</LinearLayout>

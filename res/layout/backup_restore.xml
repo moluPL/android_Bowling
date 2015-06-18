@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="50"
+    android:orientation="vertical"
+    style="?backgroundTheme"  >
+
+    <Button
+        android:id="@+id/btn_backupFile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_backup_file"
+        style="?buttonText"
+        android:layout_marginTop="10dip"
+        />
+    <Button
+        android:id="@+id/btn_restoreFile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_backup_from_file"
+        style="?buttonText"
+        android:layout_marginTop="10dip"
+        />
+
+</LinearLayout>

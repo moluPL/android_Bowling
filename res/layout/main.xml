@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+	 
+              
+	        <ScrollView android:id="@+id/vertical_scroll_view22"
+	            xmlns:android="http://schemas.android.com/apk/res/android"
+	              android:layout_width="fill_parent" 
+	              android:layout_height="match_parent"
+	             style="?backgroundTheme"  
+	              android:orientation="vertical">
+	              
+	            <LinearLayout 
+	              android:layout_width="fill_parent" 
+	              android:layout_height="wrap_content" 
+	              android:orientation="vertical" >
+              
+	    			<TextView android:id="@+id/main_sub_header"
+	              	android:layout_width="fill_parent"
+	              	android:layout_height="wrap_content"
+	              	style="?textTitle"
+	              	android:text="@string/sub_head"/>
+	    			
+	    			<Button android:id="@+id/one_player_button"
+	            	android:layout_width="fill_parent"
+	            	android:layout_height="wrap_content"
+	            	style="?buttonText"
+	            	android:text="@string/one_player_btn" />
+	    			
+	    			<Button
+	    			    android:id="@+id/team_play_button"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    style="?buttonText"
+	    			    android:text="@string/team_play_btn"
+	    			    android:visibility="gone" />
+	    			
+	    			<Button
+	    			    android:id="@+id/quick_play_button"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    style="?buttonText"
+	    			    android:text="@string/quick_play_btn"
+	    			    android:visibility="gone" />
+	    			
+	    			<Button android:id="@+id/statistic_button"
+		            	android:layout_width="fill_parent"
+		            	android:layout_height="wrap_content"
+		            	style="?buttonText"
+		            	android:text="@string/statistics_btn" />
+	    			
+	    			<Button
+	    			    android:id="@+id/backup_button"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    style="?buttonText"
+	    			    android:text="@string/main_viewAll"
+	    			     />
+	    			
+	    			<Button
+	    			    android:id="@+id/mainEdit_button"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    style="?buttonText"
+	    			    android:text="@string/main_Edit"
+	    			     />
+	    			<Button
+	    			    android:id="@+id/login_button"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    style="?buttonText"
+	    			    android:text="@string/login_btn"
+	    			    android:visibility="gone" />
+	    			
+	    			<Button
+	    			    android:id="@+id/downloading_button"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    android:text="@string/download_main"
+	    			    style="?buttonText"
+	    			    android:visibility="gone" />
+	    			<Button
+	    			    android:id="@+id/settings_button"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    style="?buttonText"
+	    			    android:text="@string/main_settings"
+	    			     />
+	    			<Button
+	    			    android:id="@+id/main_About"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    style="?buttonText"
+	    			    android:text="@string/main_about"
+	    			     />
+	    			<Button
+	    			    android:id="@+id/donate_button"
+	    			    android:layout_width="fill_parent"
+	    			    android:layout_height="wrap_content"
+	    			    style="?buttonText"
+	    			    android:text="@string/main_donate"
+	    			     />
+    			</LinearLayout>
+    		</ScrollView>
+	   	
+	   	
+	  

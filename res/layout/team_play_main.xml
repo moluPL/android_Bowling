@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    style="?backgroundTheme" 
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/team_choose_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/team_choose"
+        android:textSize="26sp" />
+
+    <Spinner
+        android:id="@+id/spinner_team_choosing"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dip"
+        android:layout_marginRight="8dip"
+        android:layout_marginTop="20dip"
+        android:prompt="@string/spinner_title" />
+
+    <Button
+        android:id="@+id/play_team_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/button"
+        				android:layout_margin="5dp"
+        android:text="@string/play" />
+
+    <Button
+        android:id="@+id/create_team_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/button"
+        				android:layout_margin="5dp"
+        android:text="@string/new_team" />
+
+    <Button
+        android:id="@+id/quick_team_play_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/button"
+        				android:layout_margin="5dp"
+        android:text="@string/quick_game" />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        				android:layout_margin="5dp"
+        android:text="@string/login_btn" />
+    <Button
+        android:id="@+id/team_main_back"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        				android:layout_margin="5dp"
+        android:text="@string/back" />
+
+</LinearLayout>

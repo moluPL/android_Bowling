@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="?backgroundTheme"
+    android:padding="5dp" >
+
+    <Button
+        android:id="@+id/Select_edit_player"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/Edit_Player" />
+
+    <Button
+        android:id="@+id/Select_edit_league"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/Edit_League" />
+
+    <Button
+        android:id="@+id/Select_edit_tournament"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/Edit_Tournament" />
+
+    <Button
+        android:id="@+id/Select_edit_match"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/Edit_match" />
+
+    <Button
+        android:id="@+id/Select_edit_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/Edit_game" 
+        android:visibility="gone"/>
+    <Button
+        android:id="@+id/edit_create_player_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/new_player" />
+	<Button
+                      android:id="@+id/btn_edit_league_create"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      style="?buttonText"
+                      android:gravity="center"
+                      android:text="@string/league_choose" />
+	<Button
+                      android:id="@+id/btn_Edit_create_tour"
+                      android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      style="?buttonText"
+                      android:text="@string/tournament" />    
+    
+    
+</LinearLayout>

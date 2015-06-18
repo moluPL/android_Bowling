@@ -1,0 +1,2181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pattern_base version="1.0">
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=602</link>
+<name>(Kegel easy street)Typical House Shot</name>
+<length>38</length>
+<ratio>10.00</ratio>
+<volume>18.70</volume>
+<opb>50.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=514</link>
+<name>Transfer Brush - Glow Bowling/Open Play Pattern</name>
+<length>36</length>
+<ratio>8.13</ratio>
+<volume>12.75</volume>
+<opb>50.00</opb>
+<db>36.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=609</link>
+<name>Kegel Sport Series - WINDING ROAD - 2839 (50 uL)</name>
+<length>39</length>
+<ratio>2.93</ratio>
+<volume>22.45</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=658</link>
+<name>Kegel Sport Series - WINDING ROAD - 2839 (40 uL)</name>
+<length>39</length>
+<ratio>2.69</ratio>
+<volume>22.44</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=715</link>
+<name>Kegel Sport Series - TURNPIKE - 2441 (50 uL)</name>
+<length>41</length>
+<ratio>2.25</ratio>
+<volume>25.30</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=608</link>
+<name>Kegel Sport Series - HIGHWAY TO HELL - 2340 (50 uL)</name>
+<length>40</length>
+<ratio>2.09</ratio>
+<volume>25.30</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=657</link>
+<name>Kegel Sport Series - HIGHWAY TO HELL - 2340 (40 uL)</name>
+<length>40</length>
+<ratio>2.08</ratio>
+<volume>24.72</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=607</link>
+<name>Kegel Sport Series - DEAD MAN'S CURVE - 3043 (50 uL)</name>
+<length>43</length>
+<ratio>3.00</ratio>
+<volume>24.25</volume>
+<opb>50.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=663</link>
+<name>Kegel Sport Series - DEAD MAN'S CURVE - 3043 (40 uL)</name>
+<length>43</length>
+<ratio>2.89</ratio>
+<volume>24.48</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=606</link>
+<name>Kegel Sport Series - BOARDWALK - 2435 (50 uL)</name>
+<length>35</length>
+<ratio>2.11</ratio>
+<volume>23.90</volume>
+<opb>50.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=655</link>
+<name>Kegel Sport Series - BOARDWALK - 2435 (40 uL)</name>
+<length>35</length>
+<ratio>2.04</ratio>
+<volume>24.08</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=714</link>
+<name>Kegel Sport Series - AUTOBAHN - 2542 (50 uL)</name>
+<length>42</length>
+<ratio>2.44</ratio>
+<volume>25.85</volume>
+<opb>50.00</opb>
+<db>33.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=605</link>
+<name>Kegel Recreation Series - WALL STREET - 7240</name>
+<length>40</length>
+<ratio>9.00</ratio>
+<volume>19.70</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=713</link>
+<name>Kegel Recreation Series - STONE STREET - 9642</name>
+<length>42</length>
+<ratio>10.50</ratio>
+<volume>23.15</volume>
+<opb>50.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=604</link>
+<name>Kegel Recreation Series - MAIN STREET - 7241</name>
+<length>41</length>
+<ratio>10.00</ratio>
+<volume>19.30</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=603</link>
+<name>Kegel Recreation Series - HIGH STREET - 8144</name>
+<length>44</length>
+<ratio>11.00</ratio>
+<volume>21.10</volume>
+<opb>50.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=602</link>
+<name>Kegel Recreation Series - EASY STREET - 7938</name>
+<length>38</length>
+<ratio>10.00</ratio>
+<volume>18.70</volume>
+<opb>50.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=712</link>
+<name>Kegel Recreation Series - BOURBON STREET - 6240</name>
+<length>40</length>
+<ratio>7.67</ratio>
+<volume>23.45</volume>
+<opb>50.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=664</link>
+<name>Kegel Kode Sport Series - 3043 (40 uL TR)</name>
+<length>43</length>
+<ratio>2.89</ratio>
+<volume>24.48</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=665</link>
+<name>Kegel Kode Sport Series - 2839 (40 uL TR)</name>
+<length>39</length>
+<ratio>2.35</ratio>
+<volume>25.44</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=723</link>
+<name>Kegel Kode Sport Series - 2542 (40 uL)</name>
+<length>42</length>
+<ratio>2.50</ratio>
+<volume>24.92</volume>
+<opb>40.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=722</link>
+<name>Kegel Kode Sport Series - 2441 (40 uL)</name>
+<length>41</length>
+<ratio>2.10</ratio>
+<volume>24.04</volume>
+<opb>40.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=662</link>
+<name>Kegel Kode Sport Series - 2240 (40 uL TR)</name>
+<length>40</length>
+<ratio>2.08</ratio>
+<volume>25.04</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=660</link>
+<name>Kegel Kode Sport Series - 2235 (40 uL TR)</name>
+<length>35</length>
+<ratio>1.96</ratio>
+<volume>24.32</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=669</link>
+<name>Kegel Kode Challenge Series - 4545 (40 uL TR)</name>
+<length>45</length>
+<ratio>3.38</ratio>
+<volume>23.56</volume>
+<opb>40.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=659</link>
+<name>Kegel Kode Challenge Series - 4241 (40 uL TR)</name>
+<length>41</length>
+<ratio>3.61</ratio>
+<volume>24.24</volume>
+<opb>40.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=668</link>
+<name>Kegel Kode Challenge Series - 4239 (40 uL TR)</name>
+<length>39</length>
+<ratio>4.14</ratio>
+<volume>23.36</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=666</link>
+<name>Kegel Kode Challenge Series - 4137 (40 uL TR)</name>
+<length>37</length>
+<ratio>3.55</ratio>
+<volume>23.24</volume>
+<opb>40.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=725</link>
+<name>Kegel Kode Challenge Series - 3540 (40 uL TR)</name>
+<length>40</length>
+<ratio>3.24</ratio>
+<volume>23.68</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=726</link>
+<name>Kegel Kode Challenge Series - 3240 (40 uL TR)</name>
+<length>40</length>
+<ratio>3.16</ratio>
+<volume>24.00</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=711</link>
+<name>Kegel Challenge Series - SUNSET STRIP - 3240 (50 uL)</name>
+<length>40</length>
+<ratio>3.33</ratio>
+<volume>24.70</volume>
+<opb>50.00</opb>
+<db>32.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=601</link>
+<name>Kegel Challenge Series - ROUTE 66 - 4345 (50 uL)</name>
+<length>45</length>
+<ratio>3.67</ratio>
+<volume>23.30</volume>
+<opb>50.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=654</link>
+<name>Kegel Challenge Series - ROUTE 66 - 4345 (40 uL)</name>
+<length>45</length>
+<ratio>4.00</ratio>
+<volume>23.68</volume>
+<opb>40.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=600</link>
+<name>Kegel Challenge Series - MIDDLE ROAD - 4239 (50 uL)</name>
+<length>39</length>
+<ratio>3.96</ratio>
+<volume>22.85</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=653</link>
+<name>Kegel Challenge Series - MIDDLE ROAD - 4239 (40 uL)</name>
+<length>39</length>
+<ratio>4.14</ratio>
+<volume>22.72</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=599</link>
+<name>Kegel Challenge Series - BROADWAY - 4537 (50 uL)</name>
+<length>37</length>
+<ratio>4.09</ratio>
+<volume>23.25</volume>
+<opb>50.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=652</link>
+<name>Kegel Challenge Series - BROADWAY - 4537 (40 uL)</name>
+<length>37</length>
+<ratio>3.55</ratio>
+<volume>23.32</volume>
+<opb>40.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=621</link>
+<name>Kegel Challenge Series - BEATEN PATH - 4541 (50 uL)</name>
+<length>41</length>
+<ratio>4.04</ratio>
+<volume>24.25</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=651</link>
+<name>Kegel Challenge Series - BEATEN PATH - 4541 (40 uL)</name>
+<length>41</length>
+<ratio>4.06</ratio>
+<volume>24.40</volume>
+<opb>40.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=710</link>
+<name>Kegel Challenge Series - ABBEY ROAD - 3540 (50 uL)</name>
+<length>40</length>
+<ratio>3.70</ratio>
+<volume>24.20</volume>
+<opb>50.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=554</link>
+<name>50 mic - Short Pattern Training - Low Volume</name>
+<length>26</length>
+<ratio>1.36</ratio>
+<volume>9.70</volume>
+<opb>50.00</opb>
+<db>26.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=803</link>
+<name>2013 USBC Women's Championships - Reno</name>
+<length>40</length>
+<ratio>4.32</ratio>
+<volume>22.35</volume>
+<opb>50.00</opb>
+<db>30.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=798</link>
+<name>2013 USBC Open Championships - Team</name>
+<length>41</length>
+<ratio>2.57</ratio>
+<volume>26.05</volume>
+<opb>50.00</opb>
+<db>33.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=799</link>
+<name>2013 USBC Open Championships - Sgls  Dbls</name>
+<length>39</length>
+<ratio>2.37</ratio>
+<volume>24.40</volume>
+<opb>50.00</opb>
+<db>30.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=792</link>
+<name>2013 USBC Masters</name>
+<length>39</length>
+<ratio>1.91</ratio>
+<volume>30.30</volume>
+<opb>50.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=802</link>
+<name>2013 NCAA Women's Championship</name>
+<length>42</length>
+<ratio>2.50</ratio>
+<volume>24.90</volume>
+<opb>50.00</opb>
+<db>36.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=800</link>
+<name>2013 ITC Sectionals Singles</name>
+<length>43</length>
+<ratio>2.33</ratio>
+<volume>26.28</volume>
+<opb>45.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=804</link>
+<name>2013 EBT 05 - QubicaAMF German Open</name>
+<length>39</length>
+<ratio>2.02</ratio>
+<volume>25.20</volume>
+<opb>45.00</opb>
+<db>32.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=801</link>
+<name>2013 26th European Youth Championships</name>
+<length>39</length>
+<ratio>2.23</ratio>
+<volume>24.60</volume>
+<opb>40.00</opb>
+<db>32.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=780</link>
+<name>2012 USBC Women's Championships_Reno</name>
+<length>39</length>
+<ratio>4.29</ratio>
+<volume>21.90</volume>
+<opb>50.00</opb>
+<db>31.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=779</link>
+<name>2012 USBC Queens_Euless</name>
+<length>41</length>
+<ratio>2.18</ratio>
+<volume>23.45</volume>
+<opb>50.00</opb>
+<db>30.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=772</link>
+<name>2012 USBC Open Championships - Baton Rouge</name>
+<length>39</length>
+<ratio>2.20</ratio>
+<volume>25.20</volume>
+<opb>50.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=777</link>
+<name>2012 USBC Open Championships - (40 uL)</name>
+<length>39</length>
+<ratio>2.04</ratio>
+<volume>24.96</volume>
+<opb>40.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=769</link>
+<name>2012 USBC Masters</name>
+<length>40</length>
+<ratio>1.98</ratio>
+<volume>29.60</volume>
+<opb>50.00</opb>
+<db>31.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=783</link>
+<name>2012 ETBF Women Championships - 44 ft</name>
+<length>44</length>
+<ratio>2.30</ratio>
+<volume>23.96</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=784</link>
+<name>2012 ETBF Women Championships - 38 ft</name>
+<length>38</length>
+<ratio>2.23</ratio>
+<volume>24.60</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=788</link>
+<name>2012 ETBF European Mens Championship - 44 ft</name>
+<length>44</length>
+<ratio>2.18</ratio>
+<volume>25.44</volume>
+<opb>40.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=787</link>
+<name>2012 ETBF European Mens Championship - 38 ft</name>
+<length>38</length>
+<ratio>2.23</ratio>
+<volume>24.60</volume>
+<opb>40.00</opb>
+<db>30.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=778</link>
+<name>2012 ETBF 25th European Youth Championships</name>
+<length>41</length>
+<ratio>2.74</ratio>
+<volume>24.64</volume>
+<opb>40.00</opb>
+<db>32.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=791</link>
+<name>2012 EBT 16 - 10th Columbia 300 Vienna Open</name>
+<length>39</length>
+<ratio>2.63</ratio>
+<volume>27.10</volume>
+<opb>50.00</opb>
+<db>31.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=786</link>
+<name>2012 EBT 11 - Storm San Marino Open</name>
+<length>40</length>
+<ratio>3.33</ratio>
+<volume>24.30</volume>
+<opb>50.00</opb>
+<db>32.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=745</link>
+<name>2011 EBT Track Dream Bowl Palace Open</name>
+<length>41</length>
+<ratio>2.93</ratio>
+<volume>24.60</volume>
+<opb>40.00</opb>
+<db>33.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=751</link>
+<name>2011 EBT Masters - Medium</name>
+<length>40</length>
+<ratio>2.78</ratio>
+<volume>25.70</volume>
+<opb>50.00</opb>
+<db>31.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=750</link>
+<name>2011 EBT Masters - Long</name>
+<length>45</length>
+<ratio>2.63</ratio>
+<volume>25.50</volume>
+<opb>50.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=753</link>
+<name>2011 EBT 08 - 8th Istanbul Open</name>
+<length>38</length>
+<ratio>2.11</ratio>
+<volume>27.15</volume>
+<opb>50.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=746</link>
+<name>2011 EBT 07 - 5th Qubica AMF Open</name>
+<length>40</length>
+<ratio>2.88</ratio>
+<volume>24.80</volume>
+<opb>50.00</opb>
+<db>33.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=708</link>
+<name>2010 USBC Women's Championships_El Paso</name>
+<length>39</length>
+<ratio>4.05</ratio>
+<volume>21.15</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=733</link>
+<name>2010 USBC Senior Masters</name>
+<length>40</length>
+<ratio>1.64</ratio>
+<volume>25.43</volume>
+<opb>45.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=705</link>
+<name>2010 USBC Open Championships (50 uL)</name>
+<length>40</length>
+<ratio>2.44</ratio>
+<volume>26.05</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=707</link>
+<name>2010 USBC Open Championships (40 uL)</name>
+<length>40</length>
+<ratio>2.67</ratio>
+<volume>26.00</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=793</link>
+<name>2010 USBC Masters - Reno</name>
+<length>39</length>
+<ratio>2.00</ratio>
+<volume>25.11</volume>
+<opb>45.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=729</link>
+<name>2010 ETBF Women's Championship - (3245)</name>
+<length>45</length>
+<ratio>3.00</ratio>
+<volume>22.40</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=728</link>
+<name>2010 ETBF Women's Championship - (1535)</name>
+<length>35</length>
+<ratio>1.76</ratio>
+<volume>22.40</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=709</link>
+<name>2010 ETBF European Youth Championship (2840)</name>
+<length>40</length>
+<ratio>2.88</ratio>
+<volume>24.80</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=738</link>
+<name>2010 EBT 15 - Ebonite Lahti Open</name>
+<length>40</length>
+<ratio>2.36</ratio>
+<volume>23.60</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=737</link>
+<name>2010 EBT 14 - Columbia 300 Vienna Open (3039)</name>
+<length>39</length>
+<ratio>2.64</ratio>
+<volume>26.45</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=736</link>
+<name>2010 EBT 13 - BNC Open (3640)</name>
+<length>40</length>
+<ratio>3.67</ratio>
+<volume>23.67</volume>
+<opb>45.00</opb>
+<db>32.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=735</link>
+<name>2010 EBT 12 - 32nd Ciutat de Barcelona (3042)</name>
+<length>42</length>
+<ratio>3.00</ratio>
+<volume>23.64</volume>
+<opb>40.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=734</link>
+<name>2010 EBT 11 - Storm San Marino Open (2640)</name>
+<length>40</length>
+<ratio>2.44</ratio>
+<volume>23.00</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=730</link>
+<name>2010 EBT 10 - Track Dream Bowl Palace Open (3039)</name>
+<length>39</length>
+<ratio>2.88</ratio>
+<volume>25.00</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=731</link>
+<name>2010 EBT 09 - Bowltech Aalborg International - Right Lane (3238)</name>
+<length>38</length>
+<ratio>2.97</ratio>
+<volume>24.70</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=732</link>
+<name>2010 EBT 09 - Bowltech Aalborg International - Left Lane (3542)</name>
+<length>42</length>
+<ratio>2.97</ratio>
+<volume>23.40</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=727</link>
+<name>2010 EBT 08 - Istanbul Open (2037)</name>
+<length>37</length>
+<ratio>2.05</ratio>
+<volume>27.10</volume>
+<opb>50.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=706</link>
+<name>2010 EBT 03 - VIII Catalonia Open (3642)</name>
+<length>42</length>
+<ratio>2.86</ratio>
+<volume>25.55</volume>
+<opb>50.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=740</link>
+<name>2010 Asian Games - Short</name>
+<length>35</length>
+<ratio>1.56</ratio>
+<volume>25.44</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=739</link>
+<name>2010 Asian Games - Long</name>
+<length>45</length>
+<ratio>2.45</ratio>
+<volume>26.52</volume>
+<opb>40.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=690</link>
+<name>2009 USBC Women's Championships (Transfer Roller Conversion)</name>
+<length>38</length>
+<ratio>2.50</ratio>
+<volume>19.92</volume>
+<opb>40.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=689</link>
+<name>2009 USBC Women's Championships</name>
+<length>38</length>
+<ratio>3.81</ratio>
+<volume>20.10</volume>
+<opb>50.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=698</link>
+<name>2009 USBC Senior Masters</name>
+<length>38</length>
+<ratio>1.61</ratio>
+<volume>24.62</volume>
+<opb>45.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=691</link>
+<name>2009 USBC Queens - Reno, NV</name>
+<length>38</length>
+<ratio>2.58</ratio>
+<volume>22.30</volume>
+<opb>50.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=682</link>
+<name>2009 USBC Open Championships (Transfer Roller Conversion)</name>
+<length>40</length>
+<ratio>2.40</ratio>
+<volume>26.16</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=684</link>
+<name>2009 USBC Open Championships (TB 40 uL Conversion)</name>
+<length>40</length>
+<ratio>2.55</ratio>
+<volume>26.52</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=679</link>
+<name>2009 USBC Open Championships</name>
+<length>40</length>
+<ratio>2.56</ratio>
+<volume>26.60</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=676</link>
+<name>2009 USBC Masters - Las Vegas</name>
+<length>39</length>
+<ratio>2.00</ratio>
+<volume>25.11</volume>
+<opb>45.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=721</link>
+<name>2009 USBC Junior Gold-Short</name>
+<length>35</length>
+<ratio>1.70</ratio>
+<volume>23.00</volume>
+<opb>45.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=720</link>
+<name>2009 USBC Junior Gold-Medium (WTBA Athens)</name>
+<length>40</length>
+<ratio>2.50</ratio>
+<volume>23.40</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=719</link>
+<name>2009 USBC Junior Gold-Long (WTBA London)</name>
+<length>44</length>
+<ratio>2.40</ratio>
+<volume>23.36</volume>
+<opb>40.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=693</link>
+<name>2009 USBC Clash of Champions</name>
+<length>40</length>
+<ratio>2.56</ratio>
+<volume>26.25</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=686</link>
+<name>2009 ITC Sectionals - Team (2341)</name>
+<length>41</length>
+<ratio>2.26</ratio>
+<volume>25.85</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=687</link>
+<name>2009 ITC Sectionals - Singles (2439)</name>
+<length>39</length>
+<ratio>2.50</ratio>
+<volume>23.65</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=697</link>
+<name>2009 ETBF European Men's Championships (2444)</name>
+<length>44</length>
+<ratio>1.82</ratio>
+<volume>24.53</volume>
+<opb>45.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=696</link>
+<name>2009 ETBF European Men's Championships (1834)</name>
+<length>34</length>
+<ratio>1.42</ratio>
+<volume>24.71</volume>
+<opb>45.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=704</link>
+<name>2009 EBT 14 - Ebonite English Open</name>
+<length>41</length>
+<ratio>3.67</ratio>
+<volume>26.30</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=703</link>
+<name>2009 EBT 13 - Ebonite Luxembourg Open - Autobahn (2942)</name>
+<length>42</length>
+<ratio>2.56</ratio>
+<volume>26.95</volume>
+<opb>50.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=702</link>
+<name>2009 EBT 11 - Columbia 300 Vienna Open (3139)</name>
+<length>39</length>
+<ratio>2.71</ratio>
+<volume>26.15</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=699</link>
+<name>2009 EBT 10 - Ankara Open (3541)</name>
+<length>41</length>
+<ratio>3.55</ratio>
+<volume>26.10</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=700</link>
+<name>2009 EBT 09 - Trofeu Internacional Ciutat de Barcelona (4241)</name>
+<length>41</length>
+<ratio>4.00</ratio>
+<volume>23.25</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=701</link>
+<name>2009 EBT 08 - Storm San Marino Open (2940)</name>
+<length>40</length>
+<ratio>2.88</ratio>
+<volume>24.75</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=695</link>
+<name>2009 EBT 07 - Brunswick Aalborg International (3045)</name>
+<length>45</length>
+<ratio>2.56</ratio>
+<volume>23.16</volume>
+<opb>40.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=694</link>
+<name>2009 EBT 07 - Brunswick Aalborg International (1635)</name>
+<length>35</length>
+<ratio>1.45</ratio>
+<volume>23.12</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=688</link>
+<name>2009 EBT 05 - 6th Istanbul Open (3041)</name>
+<length>41</length>
+<ratio>2.23</ratio>
+<volume>28.65</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=683</link>
+<name>2009 EBT 03 - VII Catalonia Open (4241)</name>
+<length>41</length>
+<ratio>4.00</ratio>
+<volume>23.25</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=677</link>
+<name>2009 EBT 02 - Hammer Bronzen Schietspoel (3246)</name>
+<length>46</length>
+<ratio>3.00</ratio>
+<volume>23.52</volume>
+<opb>40.00</opb>
+<db>46.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=678</link>
+<name>2009 EBT 02 - Hammer Bronzen Schietspoel (1533)</name>
+<length>33</length>
+<ratio>1.43</ratio>
+<volume>20.64</volume>
+<opb>40.00</opb>
+<db>33.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=680</link>
+<name>2009 Bowling This Month Tournament (1039)</name>
+<length>39</length>
+<ratio>1.00</ratio>
+<volume>24.05</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=681</link>
+<name>2009 Bowlers Journal - Las Vegas</name>
+<length>38</length>
+<ratio>2.22</ratio>
+<volume>23.10</volume>
+<opb>50.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=627</link>
+<name>2008 WTBA World Ranking Masters - Short</name>
+<length>34</length>
+<ratio>2.02</ratio>
+<volume>20.52</volume>
+<opb>40.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=626</link>
+<name>2008 WTBA World Ranking Masters - Long</name>
+<length>41</length>
+<ratio>2.62</ratio>
+<volume>22.40</volume>
+<opb>40.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=642</link>
+<name>2008 WTBA World Men's Championships (2034)</name>
+<length>34</length>
+<ratio>2.07</ratio>
+<volume>24.20</volume>
+<opb>50.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=644</link>
+<name>2008 WTBA World Men's Championships (1843)</name>
+<length>43</length>
+<ratio>1.75</ratio>
+<volume>25.16</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=625</link>
+<name>2008 USBC Women's Championships</name>
+<length>40</length>
+<ratio>3.50</ratio>
+<volume>21.48</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=592</link>
+<name>2008 USBC Team USA Trials - Very Long</name>
+<length>48</length>
+<ratio>2.86</ratio>
+<volume>17.60</volume>
+<opb>40.00</opb>
+<db>48.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=595</link>
+<name>2008 USBC Team USA Trials - Short</name>
+<length>35</length>
+<ratio>1.86</ratio>
+<volume>22.48</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=594</link>
+<name>2008 USBC Team USA Trials - Medium</name>
+<length>39</length>
+<ratio>2.14</ratio>
+<volume>23.48</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=593</link>
+<name>2008 USBC Team USA Trials - Long</name>
+<length>44</length>
+<ratio>2.04</ratio>
+<volume>23.96</volume>
+<opb>40.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=632</link>
+<name>2008 USBC Senior Masters</name>
+<length>38</length>
+<ratio>1.61</ratio>
+<volume>24.62</volume>
+<opb>45.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=614</link>
+<name>2008 USBC Open Championships (2540)</name>
+<length>40</length>
+<ratio>2.50</ratio>
+<volume>24.00</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=718</link>
+<name>2008 USBC Junior Gold Championships (Short)</name>
+<length>35</length>
+<ratio>1.77</ratio>
+<volume>25.70</volume>
+<opb>50.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=717</link>
+<name>2008 USBC Junior Gold Championships (Long   Low Volume)</name>
+<length>47</length>
+<ratio>2.67</ratio>
+<volume>17.30</volume>
+<opb>50.00</opb>
+<db>47.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=716</link>
+<name>2008 USBC Junior Gold (Medium)</name>
+<length>42</length>
+<ratio>2.56</ratio>
+<volume>25.80</volume>
+<opb>50.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=619</link>
+<name>2008 Teen Masters Finals - Short</name>
+<length>35</length>
+<ratio>1.52</ratio>
+<volume>21.64</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=618</link>
+<name>2008 Teen Masters Finals - Long</name>
+<length>42</length>
+<ratio>1.67</ratio>
+<volume>25.20</volume>
+<opb>40.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=617</link>
+<name>2008 Teen Masters - Qualifying (2839)</name>
+<length>39</length>
+<ratio>2.93</ratio>
+<volume>22.45</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=673</link>
+<name>2008 PABCON Women's Championships - 3543</name>
+<length>43</length>
+<ratio>3.00</ratio>
+<volume>22.00</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=672</link>
+<name>2008 PABCON Women's Championships - 2135</name>
+<length>35</length>
+<ratio>2.18</ratio>
+<volume>20.20</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=646</link>
+<name>2008 PABCON Senior Championships (3143)</name>
+<length>43</length>
+<ratio>3.00</ratio>
+<volume>22.00</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=645</link>
+<name>2008 PABCON Senior Championships (1735)</name>
+<length>35</length>
+<ratio>2.18</ratio>
+<volume>20.20</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=623</link>
+<name>2008 ETBF European Youth Championships (3039)</name>
+<length>39</length>
+<ratio>3.38</ratio>
+<volume>20.94</volume>
+<opb>30.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=630</link>
+<name>2008 ETBF European Women's Championship (2844)</name>
+<length>44</length>
+<ratio>2.64</ratio>
+<volume>20.25</volume>
+<opb>30.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=631</link>
+<name>2008 ETBF European Women's Championship (2434)</name>
+<length>34</length>
+<ratio>2.16</ratio>
+<volume>20.04</volume>
+<opb>30.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=670</link>
+<name>2008 ETBF European Champions Cup (3543)</name>
+<length>43</length>
+<ratio>3.13</ratio>
+<volume>23.72</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=671</link>
+<name>2008 ETBF European Champions Cup (1934)</name>
+<length>34</length>
+<ratio>1.88</ratio>
+<volume>22.00</volume>
+<opb>40.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=675</link>
+<name>2008 EBT 15 - Ebonite English Open (3940)</name>
+<length>40</length>
+<ratio>4.09</ratio>
+<volume>26.24</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=674</link>
+<name>2008 EBT 14 - 5th Oltremare Columbia 300 Open (3342)</name>
+<length>42</length>
+<ratio>3.29</ratio>
+<volume>23.60</volume>
+<opb>40.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=650</link>
+<name>2008 EBT 13 - Columbia 300 Vienna Open (2939)</name>
+<length>39</length>
+<ratio>2.93</ratio>
+<volume>22.25</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=649</link>
+<name>2008 EBT 12a - Masters (3043)</name>
+<length>43</length>
+<ratio>3.00</ratio>
+<volume>22.00</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=648</link>
+<name>2008 EBT 12a - Masters (2035)</name>
+<length>35</length>
+<ratio>2.02</ratio>
+<volume>20.52</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=647</link>
+<name>2008 EBT 12 - Ankara Open (3340)</name>
+<length>40</length>
+<ratio>3.33</ratio>
+<volume>20.92</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=639</link>
+<name>2008 EBT 11 - 30th Trofeu Internacional Ciutat de Barcelona (3737)</name>
+<length>37</length>
+<ratio>3.33</ratio>
+<volume>23.85</volume>
+<opb>50.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=638</link>
+<name>2008 EBT 10 - Storm San Marino Open (3739)</name>
+<length>39</length>
+<ratio>3.24</ratio>
+<volume>22.32</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=635</link>
+<name>2008 EBT 09 - Storm Dutch Open - BEATEN PATH (4541)</name>
+<length>41</length>
+<ratio>4.04</ratio>
+<volume>24.25</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=628</link>
+<name>2008 EBT 07 - Brunswick Aalborg International (2844)</name>
+<length>44</length>
+<ratio>2.64</ratio>
+<volume>21.03</volume>
+<opb>30.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=629</link>
+<name>2008 EBT 07 - Brunswick Aalborg International (2134)</name>
+<length>34</length>
+<ratio>1.59</ratio>
+<volume>20.76</volume>
+<opb>30.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=624</link>
+<name>2008 EBT 06 - 5th Istanbul Open - ROUTE 66 (4345)</name>
+<length>45</length>
+<ratio>3.67</ratio>
+<volume>23.30</volume>
+<opb>50.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=620</link>
+<name>2008 EBT 04 - VI Catalonia Open - WINDING ROAD (2839)</name>
+<length>39</length>
+<ratio>2.93</ratio>
+<volume>25.14</volume>
+<opb>56.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=641</link>
+<name>2008 EBT 03 - Hammer Bronzen Schietspoel (3644)</name>
+<length>44</length>
+<ratio>3.50</ratio>
+<volume>22.45</volume>
+<opb>50.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=640</link>
+<name>2008 EBT 03 - Hammer Bronzen Schietspoel (1633)</name>
+<length>33</length>
+<ratio>1.63</ratio>
+<volume>21.90</volume>
+<opb>50.00</opb>
+<db>33.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=610</link>
+<name>2008 EBT 02 - Ebonite International Luxembourg Open (3939)</name>
+<length>39</length>
+<ratio>3.55</ratio>
+<volume>21.16</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=633</link>
+<name>2008 DBU German Championships (4739)</name>
+<length>39</length>
+<ratio>4.50</ratio>
+<volume>22.50</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=637</link>
+<name>2008 ABF Asian Tenpin Bowling Championships (2544)</name>
+<length>44</length>
+<ratio>2.30</ratio>
+<volume>24.66</volume>
+<opb>45.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=636</link>
+<name>2008 ABF Asian Tenpin Bowling Championships (1434)</name>
+<length>34</length>
+<ratio>1.67</ratio>
+<volume>25.29</volume>
+<opb>45.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=527</link>
+<name>2007 WTBA World Women's Championship (2845)</name>
+<length>45</length>
+<ratio>3.00</ratio>
+<volume>22.16</volume>
+<opb>40.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=526</link>
+<name>2007 WTBA World Women's Championship (1835)</name>
+<length>35</length>
+<ratio>2.02</ratio>
+<volume>20.48</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=530</link>
+<name>2007 WTBA Men's American Zone Championships - Short</name>
+<length>35</length>
+<ratio>1.67</ratio>
+<volume>23.99</volume>
+<opb>45.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=531</link>
+<name>2007 WTBA Men's American Zone Championships - Long</name>
+<length>44</length>
+<ratio>2.67</ratio>
+<volume>24.21</volume>
+<opb>45.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=591</link>
+<name>2007 World Tenpin Masters</name>
+<length>41</length>
+<ratio>5.00</ratio>
+<volume>21.65</volume>
+<opb>45.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=590</link>
+<name>2007 Weber Cup - Day 3</name>
+<length>41</length>
+<ratio>5.00</ratio>
+<volume>24.05</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=589</link>
+<name>2007 Weber Cup - Day 2</name>
+<length>39</length>
+<ratio>5.00</ratio>
+<volume>24.05</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=588</link>
+<name>2007 Weber Cup - Day 1</name>
+<length>40</length>
+<ratio>5.24</ratio>
+<volume>24.00</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=522</link>
+<name>2007 USBC Open Championships (Transfer Roller Conversion)</name>
+<length>40</length>
+<ratio>3.11</ratio>
+<volume>23.24</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=523</link>
+<name>2007 USBC Open Championships (3340)</name>
+<length>40</length>
+<ratio>3.52</ratio>
+<volume>23.25</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=551</link>
+<name>2007 USBC Masters</name>
+<length>39</length>
+<ratio>2.14</ratio>
+<volume>23.48</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=580</link>
+<name>2007 USBC Junior Gold - Modified Shark</name>
+<length>44</length>
+<ratio>2.44</ratio>
+<volume>27.00</volume>
+<opb>50.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=579</link>
+<name>2007 USBC Junior Gold - Modified Cheetah</name>
+<length>34</length>
+<ratio>1.97</ratio>
+<volume>22.75</volume>
+<opb>50.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=578</link>
+<name>2007 USBC Junior Gold - Modified Chameleon</name>
+<length>39</length>
+<ratio>2.13</ratio>
+<volume>27.55</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=533</link>
+<name>2007 Pan-Am Games - Long</name>
+<length>45</length>
+<ratio>2.67</ratio>
+<volume>21.84</volume>
+<opb>40.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=532</link>
+<name>2007 Pan-Am Games - Short</name>
+<length>35</length>
+<ratio>1.67</ratio>
+<volume>21.32</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=587</link>
+<name>2007 Kegel London International</name>
+<length>39</length>
+<ratio>3.85</ratio>
+<volume>23.58</volume>
+<opb>45.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=534</link>
+<name>2007 ITC Singles Championships</name>
+<length>40</length>
+<ratio>2.00</ratio>
+<volume>20.84</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=535</link>
+<name>2007 ITC Sectionals</name>
+<length>38</length>
+<ratio>1.38</ratio>
+<volume>25.16</volume>
+<opb>40.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=570</link>
+<name>2007 ETBF Men's European Championship (2445)</name>
+<length>45</length>
+<ratio>2.75</ratio>
+<volume>22.68</volume>
+<opb>45.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=571</link>
+<name>2007 ETBF Men's European Championship (1335)</name>
+<length>35</length>
+<ratio>1.67</ratio>
+<volume>22.59</volume>
+<opb>45.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=537</link>
+<name>2007 ETBF European Youth Championships</name>
+<length>39</length>
+<ratio>3.65</ratio>
+<volume>22.13</volume>
+<opb>48.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=547</link>
+<name>2007 ETBF European Champions Cup (3844)</name>
+<length>44</length>
+<ratio>3.43</ratio>
+<volume>21.36</volume>
+<opb>40.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=546</link>
+<name>2007 ETBF European Champions Cup (1434)</name>
+<length>34</length>
+<ratio>1.70</ratio>
+<volume>21.16</volume>
+<opb>40.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=555</link>
+<name>2007 EBT 18 - Storm English Open (3642)</name>
+<length>42</length>
+<ratio>3.94</ratio>
+<volume>23.64</volume>
+<opb>40.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=553</link>
+<name>2007 EBT 17 - Oltremare Open (2741)</name>
+<length>41</length>
+<ratio>2.97</ratio>
+<volume>23.60</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=548</link>
+<name>2007 EBT 16 - Vienna Open (4138)</name>
+<length>38</length>
+<ratio>4.23</ratio>
+<volume>20.56</volume>
+<opb>40.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=545</link>
+<name>2007 EBT 14 - 1st Ankara Open</name>
+<length>37</length>
+<ratio>4.29</ratio>
+<volume>23.40</volume>
+<opb>50.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=525</link>
+<name>2007 EBT 13 - 29th Trofeu Internacional Ciutat de Barcelona (2241)</name>
+<length>41</length>
+<ratio>2.43</ratio>
+<volume>23.20</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=524</link>
+<name>2007 EBT 12 - Storm San Marino Open (2937)</name>
+<length>37</length>
+<ratio>3.10</ratio>
+<volume>21.87</volume>
+<opb>45.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=528</link>
+<name>2007 EBT 09 - Brunswick Aalborg International (2840)</name>
+<length>40</length>
+<ratio>3.46</ratio>
+<volume>23.00</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=573</link>
+<name>2007 EBT 07 - 4th Istanbul Open</name>
+<length>41</length>
+<ratio>2.56</ratio>
+<volume>29.15</volume>
+<opb>50.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=529</link>
+<name>2007 EBT 04 - 5th Catalonia Open Trofeo Galasa</name>
+<length>42</length>
+<ratio>3.05</ratio>
+<volume>23.92</volume>
+<opb>40.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=568</link>
+<name>2007 EBT 03 - Ebonite International Luxembourg Open</name>
+<length>39</length>
+<ratio>4.77</ratio>
+<volume>18.76</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=577</link>
+<name>2007 EBT 02 - Hammer Bronzen Schietspoel - Short</name>
+<length>35</length>
+<ratio>2.12</ratio>
+<volume>21.00</volume>
+<opb>50.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=576</link>
+<name>2007 EBT 02 - Hammer Bronzen Schietspoel - Long</name>
+<length>45</length>
+<ratio>4.40</ratio>
+<volume>22.50</volume>
+<opb>50.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=549</link>
+<name>2007 ABF Asian Indoor Games - Short</name>
+<length>35</length>
+<ratio>1.53</ratio>
+<volume>19.24</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=550</link>
+<name>2007 ABF Asian Indoor Games - Long</name>
+<length>45</length>
+<ratio>2.56</ratio>
+<volume>21.88</volume>
+<opb>40.00</opb>
+<db>45.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=566</link>
+<name>2006 WTBA World Youth Championships - Short</name>
+<length>32</length>
+<ratio>2.05</ratio>
+<volume>19.36</volume>
+<opb>40.00</opb>
+<db>32.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=564</link>
+<name>2006 WTBA World Youth Championships - Long</name>
+<length>42</length>
+<ratio>3.67</ratio>
+<volume>19.44</volume>
+<opb>40.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=583</link>
+<name>2006 WTBA World Men's Championship - Short</name>
+<length>33</length>
+<ratio>1.49</ratio>
+<volume>18.00</volume>
+<opb>40.00</opb>
+<db>33.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=582</link>
+<name>2006 WTBA World Men's Championship - Long</name>
+<length>43</length>
+<ratio>2.75</ratio>
+<volume>20.16</volume>
+<opb>40.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=65</link>
+<name>2006 USBC Open Championships</name>
+<length>39</length>
+<ratio>3.65</ratio>
+<volume>19.00</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=510</link>
+<name>2006 USBC Junior Gold-Short</name>
+<length>36</length>
+<ratio>1.59</ratio>
+<volume>22.30</volume>
+<opb>50.00</opb>
+<db>36.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=511</link>
+<name>2006 USBC Junior Gold-Medium</name>
+<length>40</length>
+<ratio>1.77</ratio>
+<volume>25.45</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=512</link>
+<name>2006 USBC Junior Gold-Long</name>
+<length>44</length>
+<ratio>1.94</ratio>
+<volume>25.65</volume>
+<opb>50.00</opb>
+<db>44.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=204</link>
+<name>2006 Teen Masters-Short</name>
+<length>35</length>
+<ratio>1.52</ratio>
+<volume>21.64</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=203</link>
+<name>2006 Teen Masters-Long</name>
+<length>42</length>
+<ratio>1.57</ratio>
+<volume>25.52</volume>
+<opb>40.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=585</link>
+<name>2006 ETBF Women's European Championship - Short</name>
+<length>35</length>
+<ratio>2.34</ratio>
+<volume>20.03</volume>
+<opb>45.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=584</link>
+<name>2006 ETBF Women's European Championship - Long</name>
+<length>43</length>
+<ratio>3.50</ratio>
+<volume>20.84</volume>
+<opb>45.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=69</link>
+<name>2006 ETBF European Youth Championships</name>
+<length>40</length>
+<ratio>2.73</ratio>
+<volume>20.79</volume>
+<opb>35.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=520</link>
+<name>2006 EBT Viernheim Open</name>
+<length>39</length>
+<ratio>3.17</ratio>
+<volume>22.64</volume>
+<opb>45.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=519</link>
+<name>2006 EBT San Marino Open</name>
+<length>37</length>
+<ratio>4.29</ratio>
+<volume>23.40</volume>
+<opb>50.00</opb>
+<db>37.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=73</link>
+<name>2006 EBT IV Open Catalonia Trofeu Galasa</name>
+<length>39</length>
+<ratio>3.03</ratio>
+<volume>22.77</volume>
+<opb>45.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=13</link>
+<name>2006 EBT Istanbul Open</name>
+<length>41</length>
+<ratio>3.57</ratio>
+<volume>28.96</volume>
+<opb>57.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=567</link>
+<name>2006 EBT Aalborg International</name>
+<length>38</length>
+<ratio>2.05</ratio>
+<volume>22.90</volume>
+<opb>50.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=89</link>
+<name>2006 Ebonite Junior Gold Survivors</name>
+<length>42</length>
+<ratio>10.50</ratio>
+<volume>22.65</volume>
+<opb>50.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=61</link>
+<name>2006 AZY Championships Short</name>
+<length>34</length>
+<ratio>1.75</ratio>
+<volume>21.80</volume>
+<opb>50.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=62</link>
+<name>2006 AZY Championships Long</name>
+<length>43</length>
+<ratio>2.71</ratio>
+<volume>22.75</volume>
+<opb>50.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=53</link>
+<name>2006 AMZ Division Finals Short</name>
+<length>34</length>
+<ratio>1.75</ratio>
+<volume>21.80</volume>
+<opb>50.00</opb>
+<db>34.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=43</link>
+<name>2006 AMZ Division Finals Long</name>
+<length>43</length>
+<ratio>2.71</ratio>
+<volume>22.75</volume>
+<opb>50.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=544</link>
+<name>2005 WTBA World Ranking Masters - Short (Transfer Roller Conversion)</name>
+<length>35</length>
+<ratio>1.98</ratio>
+<volume>20.76</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=542</link>
+<name>2005 WTBA World Ranking Masters - Short</name>
+<length>35</length>
+<ratio>1.98</ratio>
+<volume>20.76</volume>
+<opb>40.00</opb>
+<db>35.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=543</link>
+<name>2005 WTBA World Ranking Masters - Long (Transfer Roller Conversion)</name>
+<length>43</length>
+<ratio>2.50</ratio>
+<volume>21.32</volume>
+<opb>35.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=541</link>
+<name>2005 WTBA World Ranking Masters - Long</name>
+<length>43</length>
+<ratio>2.67</ratio>
+<volume>20.02</volume>
+<opb>35.00</opb>
+<db>43.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=74</link>
+<name>2005 Super Series Helsingborg</name>
+<length>40</length>
+<ratio>2.16</ratio>
+<volume>24.00</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=71</link>
+<name>2005 Mini Eliminator - Summer</name>
+<length>39</length>
+<ratio>2.44</ratio>
+<volume>24.35</volume>
+<opb>45.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=56</link>
+<name>2005 EBT Viernheim Open</name>
+<length>41</length>
+<ratio>2.91</ratio>
+<volume>28.49</volume>
+<opb>45.00</opb>
+<db>41.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=569</link>
+<name>2005 EBT San Marino Open</name>
+<length>42</length>
+<ratio>3.48</ratio>
+<volume>23.40</volume>
+<opb>40.00</opb>
+<db>42.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=586</link>
+<name>2005 EBT Istanbul Open</name>
+<length>40</length>
+<ratio>4.11</ratio>
+<volume>21.88</volume>
+<opb>40.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=572</link>
+<name>2004-05 US Open_Transfer Roller</name>
+<length>40</length>
+<ratio>1.00</ratio>
+<volume>24.53</volume>
+<opb>45.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=581</link>
+<name>2004-05 US Open (Transfer Brush Conversion)</name>
+<length>40</length>
+<ratio>1.00</ratio>
+<volume>24.53</volume>
+<opb>45.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=558</link>
+<name>2004 EBT Aalborg International</name>
+<length>38</length>
+<ratio>1.85</ratio>
+<volume>23.04</volume>
+<opb>45.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=563</link>
+<name>2004 ABC Nationals</name>
+<length>38</length>
+<ratio>2.84</ratio>
+<volume>21.80</volume>
+<opb>40.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=556</link>
+<name>2003 WTBA World Championships</name>
+<length>38</length>
+<ratio>1.63</ratio>
+<volume>23.00</volume>
+<opb>50.00</opb>
+<db>38.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=557</link>
+<name>2003 EBT Vienna Open</name>
+<length>40</length>
+<ratio>2.03</ratio>
+<volume>21.50</volume>
+<opb>50.00</opb>
+<db>40.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=562</link>
+<name>2003 ABC Nationals</name>
+<length>39</length>
+<ratio>1.51</ratio>
+<volume>25.20</volume>
+<opb>50.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=616</link>
+<name>2000 PWBA Foundation Games II - Plastic Ball Pattern</name>
+<length>29</length>
+<ratio>8.33</ratio>
+<volume>5.25</volume>
+<opb>25.00</opb>
+<db>29.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=615</link>
+<name>2000 Foundation Games I</name>
+<length>32</length>
+<ratio>2.67</ratio>
+<volume>6.30</volume>
+<opb>35.00</opb>
+<db>32.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=561</link>
+<name>2000 ABC Nationals</name>
+<length>39</length>
+<ratio>2.63</ratio>
+<volume>22.44</volume>
+<opb>40.00</opb>
+<db>39.00</db>
+</Pattern>
+<Pattern>
+<link>http://www.kegel.net/V3/PatternLibraryPattern.aspx?ID=611</link>
+<name>1st World Challenge - WTBA Tech Committee (3134)</name>
+<length>34</length>
+<ratio>3.33</ratio>
+<volume>7.14</volume>
+<opb>35.00</opb>
+<db>34.00</db>
+</Pattern>
+</Pattern_base>

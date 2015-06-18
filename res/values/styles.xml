@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+  
+
+   
+<!-- _____________________________________SMALL TEXT GOLDEN_______________________________-->
+
+	<style name="small_title_text_golden">
+      <item name="android:textSize">20sp</item>
+      <item name="android:textColor">#FFFF00</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:padding">5dip</item>
+   	</style>
+   
+   <style name="small_body_text_golden">
+      <item name="android:textSize">16sp</item>
+      <item name="android:textColor"> #FFFF00</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:padding">5dip</item>
+   </style>
+   
+   <style name="small_button_text_golden">
+      <item name="android:textSize">16sp</item>
+	  <item name="android:layout_height">wrap_content</item>
+      <item name="android:textColor">#FFFF00</item>
+      <item name="android:background">@drawable/button</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+   
+   <!-- _____________________ MEDIUM TEXT GOLDEN___________________________________________-->
+   
+	<style name="medium_title_text_golden">
+      <item name="android:textSize">24sp</item>
+      <item name="android:textColor">#FFFF00</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:padding">5dip</item>
+   	</style>
+   
+   <style name="medium_body_text_golden">
+      <item name="android:textSize">19sp</item>
+      <item name="android:textColor">#FFFF00</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:padding">5dip</item>
+   </style>
+   
+   <style name="medium_button_text_golden">
+      <item name="android:textSize">19sp</item>
+	  <item name="android:layout_height">wrap_content</item>
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:textColor">#FFFF00</item>
+      <item name="android:background">@drawable/button</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+   
+   
+<!-- ______________________ LARGE TEXT GOLDEN	____________________________ -->
+     
+     <style name="large_title_text_golden">
+	      <item name="android:textSize">26sp</item>
+	      <item name="android:layout_height">wrap_content</item>
+	      <item name="android:textColor">#FFFF00</item>
+	      <item name="android:padding">5dp</item>
+	      <item name="android:layout_margin">5dp</item>
+	      <item name="android:textStyle">normal</item>
+	      
+   	</style>
+
+   <style name="large_body_text_golden">
+      <item name="android:textSize">22sp</item>
+      <item name="android:layout_height">wrap_content</item>
+      <item name="android:textColor">#FFFF00</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="large_button_text_golden">
+      <item name="android:textSize">22sp</item>
+      <item name="android:layout_height">wrap_content</item>
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:textColor">#FFFF00</item>
+      <item name="android:background">@drawable/button</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:textStyle">normal</item>
+   </style> 
+   
+   
+   <!-- _____________________________________SMALL GREEN TEXT DEFAULT_______________________ -->
+
+	<style name="small_title_text">
+      <item name="android:textSize">20sp</item>
+      <item name="android:textColor">#228B22</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   	</style>
+   
+   <style name="small_body_text">
+      <item name="android:textSize">16sp</item>
+      <item name="android:textColor"> #228B22</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="small_button_text">
+      <item name="android:textSize">16sp</item>
+	  <item name="android:layout_height">wrap_content</item>
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:textColor">#228B22</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+    <!-- _____________________________________LARGE GREEN TEXT DEFAULT_______________________ -->
+
+	<style name="large_title_text_green">
+      <item name="android:textSize">26sp</item>
+      <item name="android:textColor">#228B22</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   	</style>
+   
+   <style name="large_body_text_green">
+      <item name="android:textSize">22sp</item>
+      <item name="android:textColor"> #228B22</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="large_button_text_green">
+      <item name="android:textSize">22sp</item>
+	  <item name="android:layout_height">wrap_content</item>
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:textColor">#228B22</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+<!-- _____________________ MEDIUM TEXT ___________________________________________-->
+   
+	<style name="medium_title_text">
+      <item name="android:textSize">24sp</item>
+      <item name="android:textColor">#000000</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   	</style>
+   
+   <style name="medium_body_text">
+      <item name="android:textSize">19sp</item>
+      <item name="android:textColor">#000000</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="medium_button_text">
+      <item name="android:textSize">19sp</item>
+	  <item name="android:layout_height">wrap_content</item>
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:textColor">#000000</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+   
+<!-- ______________________________________________LARGE TEXT___________________________________________-->
+
+     <style name="large_title_text">
+	      <item name="android:textSize">26sp</item>
+	      <item name="android:textColor">#000066</item>
+	      <item name="android:textStyle">normal</item>
+	      <item name="android:paddingBottom">5dip</item>
+   	</style>
+
+   <style name="large_body_text">
+      <item name="android:textSize">22sp</item>
+      <item name="android:textColor">#000066</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="large_button_text">
+      <item name="android:textSize">22sp</item>
+      <item name="android:alpha">0.85</item>
+      <item name="android:textColor">#000066</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+  <!-- ______________________________________________LARGE TABLET TEXT WHITE___________________________________________-->
+
+     <style name="Tabletlarge_title_text_white">
+	      <item name="android:textSize">44sp</item>
+	      <item name="android:textColor">#FFFFFF</item>
+	      <item name="android:textStyle">normal</item>
+	      <item name="android:paddingBottom">5dip</item>
+   	</style>
+
+   <style name="Tabletlarge_body_text_white">
+      <item name="android:textSize">36sp</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="Tabletlarge_button_text_white">
+      <item name="android:textSize">36sp</item>
+      <item name="android:layout_marginTop">15dp</item>
+      <item name="android:alpha">0.85</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+    
+<!-- ______________________________________________LARGE TEXT WHITE___________________________________________-->
+
+     <style name="large_title_text_white">
+	      <item name="android:textSize">26sp</item>
+	      <item name="android:textColor">#FFFFFF</item>
+	      <item name="android:textStyle">normal</item>
+	      <item name="android:paddingBottom">5dip</item>
+   	</style>
+
+   <style name="large_body_text_white">
+      <item name="android:textSize">22sp</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="large_button_text_white">
+      <item name="android:textSize">22sp</item>
+      <item name="android:alpha">0.85</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+   
+   <!-- _____________________ MEDIUM TEXT WHITE___________________________________________-->
+   
+	<style name="medium_title_text_white">
+      <item name="android:textSize">24sp</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   	</style>
+   
+   <style name="medium_body_text_white">
+      <item name="android:textSize">19sp</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="medium_button_text_white">
+      <item name="android:textSize">19sp</item>
+	  <item name="android:layout_height">wrap_content</item>
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+   
+    <!-- _____________________________________SMALL TEXT WHITE_______________________ -->
+
+	<style name="small_title_text_white">
+      <item name="android:textSize">20sp</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   	</style>
+   
+   <style name="small_body_text_white">
+      <item name="android:textSize">16sp</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="small_button_text_white">
+      <item name="android:textSize">16sp</item>
+	  <item name="android:layout_height">wrap_content</item>
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:textColor">#FFFFFF</item>
+      <item name="android:padding">5dp</item>
+      <item name="android:layout_margin">5dp</item>
+      <item name="android:alpha">0.8</item>
+      <item name="android:textStyle">normal</item>
+   </style>
+<!-- ____________________________________________radio button style_______________________________________  -->
+
+   <style name="small_radio_btn_text">
+      <item name="android:textSize">16sp</item>
+      <item name="android:textColor"> #228B22 </item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="medium_radio_btn_text">
+      <item name="android:textSize">19sp</item>
+      <item name="android:textColor">#228B22</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+
+   <style name="large_radio_btn_text">
+      <item name="android:textSize">21sp</item>
+      <item name="android:textColor">#228B22</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+
+   <style name="default_radio_btn_text">
+      <item name="android:textSize">15sp</item>
+      <item name="android:textColor"> #228B22 </item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">5dip</item>
+   </style>
+   
+   <style name="Tabletlarge_radio_btn_text">
+      <item name="android:textSize">36sp</item>
+      <item name="android:textColor">#228B22</item>
+      <item name="android:textStyle">normal</item>
+      <item name="android:paddingBottom">10dip</item>
+   </style>
+   
+
+<!-- __________________________________________Change gray_radient theme__________________________________ -->
+
+  	<style name="gray_gradient">
+      <item name="android:background"> #C1CDCD </item>
+      <item  name="android:padding">2dp</item>
+	</style>
+
+<!-- Change radial gradient theme -->
+
+  	<style name="radial_gradient">
+      <item name="android:background"> #36648B </item>
+      <item  name="android:padding">2dp</item>
+	</style>
+
+ 	<style name="default_theme">
+      <item name="android:background">@drawable/background</item>
+      <item  name="android:padding">2dp</item>
+	</style>
+
+<!-- _____________________________Action bar_____________________________ -->
+	
+	
+	    <!-- ActionBar tabs styles -->
+	    <style name="MyActionBarTabs">
+	        <!-- tab indicator -->
+	        <item name="android:background">#000000</item>
+	    </style>
+<!-- ____________________________________________________Change default theme_____________________________ -->
+
+  	<style name="background_default">
+      <item name="android:background">@drawable/background</item>
+      <item  name="android:padding">2dp</item>
+	</style>
+	
+  	<style name="background_golden">
+      <item name="android:background">@drawable/background_gradient</item>
+      <item  name="android:padding">2dp</item>
+	</style>
+	
+  	<style name="background_pins">
+      <item name="android:background">@drawable/background_pins</item>
+      <item  name="android:padding">2dp</item>
+	</style>
+
+
+
+
+<!-- _____________________________________Base application theme is the default theme.____________________________ -->
+
+	  <style name="Theme" parent="android:Theme">
+	  </style>
+	
+	  <style name="Theme.SmallText">
+	     <item name="textTitle">@style/small_title_text</item>
+	     <item name="textBody">@style/small_body_text</item>
+	     <item name="buttonText">@style/small_button_text</item>
+	     <item name="radioButtonText">@style/small_radio_btn_text</item>
+	     <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	  <style name="Theme.MediumText">
+	     <item name="textTitle">@style/medium_title_text</item>
+	     <item name="textBody">@style/medium_body_text</item>
+	     <item name="buttonText">@style/medium_button_text</item>
+	     <item name="radioButtonText">@style/small_radio_btn_text</item>
+	     <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	
+	  <style name="Theme.LargeText">
+	      <item name="textTitle">@style/large_title_text</item>
+	      <item name="textBody">@style/large_body_text</item>
+	      <item name="buttonText">@style/large_button_text</item>
+	      <item name="radioButtonText">@style/large_radio_btn_text</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	   <style name="Theme.SmallTextWhite">
+	     <item name="textTitle">@style/small_title_text_white</item>
+	     <item name="textBody">@style/small_body_text_white</item>
+	     <item name="buttonText">@style/small_button_text_white</item>
+	     <item name="radioButtonText">@style/small_radio_btn_text</item>
+	     <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	  <style name="Theme.LargeTextWhite">
+	      <item name="textTitle">@style/large_title_text_white</item>
+	      <item name="textBody">@style/large_body_text_white</item>
+	      <item name="buttonText">@style/large_button_text_white</item>
+	      <item name="radioButtonText">@style/large_radio_btn_text</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	  <style name="Theme.TabletLargeTextWhite">
+	      <item name="textTitle">@style/Tabletlarge_title_text_white</item>
+	      <item name="textBody">@style/Tabletlarge_body_text_white</item>
+	      <item name="buttonText">@style/Tabletlarge_button_text_white</item>
+	      <item name="radioButtonText">@style/Tabletlarge_radio_btn_text</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	  <style name="Theme.LargeTextGreen">
+	      <item name="textTitle">@style/large_title_text_green</item>
+	      <item name="textBody">@style/large_body_text_green</item>
+	      <item name="buttonText">@style/large_button_text_green</item>
+	      <item name="radioButtonText">@style/large_radio_btn_text</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	
+	  <style name="Theme.DefaultText">
+	      <item name="android:windowActionBar">true</item>
+	      <item name="radioButtonText">@style/default_radio_btn_text</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	
+	  <style name="Theme.Gray">
+	      <item name="backgroundTheme">@style/gray_gradient</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	
+	  <style name="Theme.Radial">
+	      <item name="backgroundTheme">@style/radial_gradient</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	
+	  <style name="Theme.DefaultTheme">
+	      <item name="android:windowActionBar">true</item>
+	       <item name="backgroundTheme">@style/background_default</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+<!-- ______________________________DARK_____________________________________________________  -->
+	  <style name="Theme.Pins">
+	      <item name="backgroundTheme">@style/background_pins</item>
+	     <item name="radioButtonText">@style/small_radio_btn_text</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	  <style name="Theme.PinsM">
+	      <item name="backgroundTheme">@style/background_pins</item>
+	      <item name="textTitle">@style/small_title_text_white</item>
+	     <item name="textBody">@style/small_body_text_white</item>
+	     <item name="buttonText">@style/small_button_text_white</item>
+	     <item name="radioButtonText">@style/small_radio_btn_text</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	  <style name="Theme.PinsL">
+	      <item name="backgroundTheme">@style/background_pins</item>
+	      <item name="textTitle">@style/small_title_text_white</item>
+	     <item name="textBody">@style/small_body_text_white</item>
+	     <item name="buttonText">@style/small_button_text_white</item>
+	     <item name="radioButtonText">@style/small_radio_btn_text</item>
+	      <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+<!--	________________________________________GOLDEN___________________________________  -->
+	  <style name="Theme.Golden_small">
+	      <item name="backgroundTheme">@style/background_golden</item>
+	      <item name="textTitle">@style/small_title_text_golden</item>
+	     <item name="textBody">@style/small_body_text_golden</item>
+	     <item name="buttonText">@style/small_button_text_golden</item>
+	     <item name="radioButtonText">@style/small_radio_btn_text</item>
+	     <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	  <style name="Theme.Golden_medium">
+	      <item name="backgroundTheme">@style/background_golden</item>
+	      <item name="textTitle">@style/medium_title_text_golden</item>
+	     <item name="textBody">@style/medium_body_text_golden</item>
+	     <item name="buttonText">@style/medium_button_text_golden</item>
+	     <item name="radioButtonText">@style/medium_radio_btn_text</item>
+	     <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	  
+	  <style name="Theme.Golden_large">
+	      <item name="backgroundTheme">@style/background_golden</item>
+	      <item name="textTitle">@style/large_title_text_golden</item>
+	     <item name="textBody">@style/large_body_text_golden</item>
+	     <item name="buttonText">@style/large_button_text_golden</item>
+	     <item name="radioButtonText">@style/small_radio_btn_text</item>
+	     <item name="android:windowTitleBackgroundStyle">@style/MyActionBarTabs</item>
+	  </style>
+	
+	  <style name="PreferencesTheme" parent="android:Theme.Light">
+	       <item name="android:background">#FFEAEAEA</item>
+	</style>
+   
+</resources>

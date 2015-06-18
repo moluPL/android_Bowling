@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="?backgroundTheme" 
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/create_tournament_nameTxtV"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_tour_name"
+        style="?textBody" 
+        />
+
+    <EditText
+        android:id="@+id/create_tournament_text_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+         />
+
+    <TextView
+        android:id="@+id/create_tournament_homeTxtV"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/create_tour_Home"
+        style="?textBody"
+        />
+
+    <EditText
+        android:id="@+id/create_tournament_text_home"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName" 
+        android:paddingLeft="10dp"
+        />
+    
+	<Button
+	    android:id="@+id/create_tournament_btn_select_pattern"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    style="?buttonText"
+	    android:text="@string/choose_pattern_txt" />
+
+    <TextView
+        android:id="@+id/create_tournament_patternTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_patR"
+        style="?textBody"
+        />
+    <TextView
+        android:id="@+id/create_tournament_patternselectTXT"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?textBody"
+        />
+    
+    <Button
+        android:id="@+id/create_tournament_btn_select_pattern2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?buttonText"
+        android:text="@string/choose_pattern_txt" />
+
+    <TextView
+        android:id="@+id/create_tournament_patternTxt2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/your_patL"
+        style="?textBody"
+        />
+    <TextView
+        android:id="@+id/create_tournament_patternselectTXT2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?textBody"
+        />
+
+    <CheckBox
+        android:id="@+id/create_tournament_checkSame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/checkBoxPatternsSame" />
+
+    <CheckBox
+        android:id="@+id/create_tournament_checkBoxUnknow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/checkUnknown" />
+    
+    <TableLayout
+        android:id="@+id/table_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"  
+   		android:stretchColumns="*"
+        >
+        <TableRow 
+            
+            android:id="@+id/table_button_row"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        >
+
+        	<Button
+        	    android:id="@+id/create_tournament_button_save"
+        	    style="?buttonText"
+        	    android:layout_width="fill_parent"
+        	    android:layout_height="wrap_content"
+        	    android:text="@string/btn_save" />
+
+        	<Button
+        	    android:id="@+id/create_tournament_button_cancel"
+        	    style="?buttonText"
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    android:text="@string/btn_cancel" />
+
+    	</TableRow>
+    		
+    
+    </TableLayout>
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="?backgroundTheme" 
+    android:orientation="vertical" 
+    >
+<LinearLayout 
+    android:id="@+id/edit_Match_linlay"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/edit_match_dateTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?textBody"
+        />
+
+    <Button
+        android:id="@+id/Edit_match_date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        style="?buttonText"
+        android:text="@string/edit_MAtch_changeDate" />
+
+    <TextView
+        android:id="@+id/edit_match_typeTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?textBody"
+        android:text="@string/Match_info_type" />
+
+    <Button
+        android:id="@+id/Edit_Match_changeToTrain"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        style="?buttonText"
+        android:text="@string/edit_MAtch_changeTypeTrain" />
+
+    <Spinner
+        android:id="@+id/edit_MatchSpinner_typeLg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/edit_Match_changeToLG"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        style="?buttonText"
+        android:text="@string/edit_MAtch_changeTypeLg" />
+
+    <Spinner
+        android:id="@+id/edit_MatchSpinner_typeTour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/Edit_Match_ChangeToTour"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        style="?buttonText"
+        android:text="@string/edit_MAtch_changeTypeTour" />
+
+    <TextView
+        android:id="@+id/edit_match_totalTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?textBody"
+        android:text="@string/AllInfoTotalPinfall" />
+
+    <TextView
+        android:id="@+id/Edit_Match_averageTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="?textBody"
+        android:text="@string/AllInfoHighSeriesaverage" />
+
+    <TextView
+        android:id="@+id/edit_match_noGamesTxt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       style="?textBody"
+        android:text="@string/AllInfoHighSeriesNoGame" />
+
+    <Button
+        android:id="@+id/edit_match_showGamesBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        style="?buttonText"
+        android:text="@string/edit_match_show_games" />
+
+    <Button
+        android:id="@+id/Edit_match_EditGames"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        style="?buttonText"
+        android:text="@string/Edit_games" />
+
+    <LinearLayout
+        android:id="@+id/Edit_match_GamesList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+    <TableLayout
+        android:id="@+id/edit_Match_table_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:shrinkColumns="*"  
+   		android:stretchColumns="*"
+        >
+        <TableRow 
+            android:id="@+id/edit_Match_table_button_row"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        >
+
+        	<Button
+        	    android:id="@+id/edit_Match_button_save"
+        	    android:layout_width="fill_parent"
+        	    android:layout_height="wrap_content"
+        	    style="?buttonText"
+        	    android:text="@string/btn_save" />
+
+        	<Button
+        	    android:id="@+id/edit_Match_button_cancel"
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    style="?buttonText"
+        	    android:text="@string/btn_cancel" />
+
+    	</TableRow>
+    		
+    
+    </TableLayout>
+
+</LinearLayout>
+</ScrollView>

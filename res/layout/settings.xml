@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="?backgroundTheme" 
+    >
+
+ 	<LinearLayout
+      	android:orientation="vertical"
+ 		android:layout_width="fill_parent"
+ 		android:layout_height="fill_parent">
+     
+ 	    <Button
+		    android:id="@+id/settings_theme_btn"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    style="?buttonText"
+		    android:text="@string/settings_themeTxt" />
+ 	    <Button
+		    android:id="@+id/settings_lang_btn"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    style="?buttonText"
+		    android:visibility="gone"
+		    android:text="@string/settings_langTxt" />
+ </LinearLayout>
+ </ScrollView>

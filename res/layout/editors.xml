@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    style="?backgroundTheme"  
+    android:layout_gravity="center|fill|start"
+    android:orientation="vertical" >
+
+    <HorizontalScrollView
+        android:id="@+id/horizontal_scroll_view2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:scrollbars="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TableLayout
+                android:id="@+id/NumberSelect"
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:shrinkColumns="*"
+                android:stretchColumns="*" >
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:shrinkColumns="*"
+                    android:stretchColumns="*" >
+
+                    <TextView
+                        android:id="@+id/titleEdit"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="14dp"
+                        android:layout_marginTop="14dp"
+                        android:text="@string/editor_tittle"
+                        android:textAppearance="?android:attr/textAppearanceLarge" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:shrinkColumns="*"
+                    android:stretchColumns="*" >
+
+                    <TextView
+                        android:id="@+id/actualScore"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="24dp"
+                        android:text="@string/editor_tittle2"
+                        android:textAppearance="?android:attr/textAppearanceMedium" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:shrinkColumns="*"
+                    android:stretchColumns="*" >
+                
+                	 	<Switch
+                	 	    android:id="@+id/switchManualSetPins"
+                	 	    android:layout_width="wrap_content"
+                	 	    android:layout_height="wrap_content"
+                	 	    android:layout_marginBottom="15dp"
+                	 	    android:layout_marginTop="15dp"
+                	 	    android:text="@string/manual_choose_pins" />
+
+				</TableRow>
+                <TableRow
+                    android:id="@+id/numberSelectPins"
+                    
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:shrinkColumns="*"
+                    android:stretchColumns="*" >
+
+                    <Button
+                        android:id="@+id/btn_pin1"
+                        style="?buttonText"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="15dp"
+                        android:layout_weight="1"
+                        android:text="@string/first_throw"
+                        android:textStyle="italic"
+                        android:typeface="serif" />
+
+                    <Button
+                        android:id="@+id/btn_pin2"
+                        style="?buttonText"
+                        android:layout_width="0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="15dp"
+                        android:layout_weight="1"
+                        android:text="@string/second_throw"
+                        android:textStyle="italic"
+                        android:typeface="serif" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" >
+                </TableRow>
+
+                
+            </TableLayout>
+
+            <LinearLayout
+                android:id="@+id/ManualPins"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/TextView01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/choose_pins"
+                    android:textStyle="normal"
+                    android:typeface="sans" />
+
+                <RelativeLayout
+                    android:id="@+id/firstThrowPins"
+                    android:layout_width="match_parent"
+                    android:layout_height="249dp"
+                    android:layout_gravity="center" >
+
+                    <CheckBox
+                        android:id="@+id/pin1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="10dp"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p1"
+                        android:textStyle="bold|italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin1"
+                        android:layout_toLeftOf="@+id/pin1"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p2"
+                        android:textStyle="bold|italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin3"
+                       style="@android:style/TextAppearance.Holo.Widget.TextView.SpinnerItem"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin1"
+                        android:layout_toRightOf="@+id/pin1"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p3"
+                        android:textAppearance="?android:attr/textAppearance"
+                        android:textStyle="bold|italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin3"
+                        android:layout_toLeftOf="@+id/pin3"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p5"
+                        android:textStyle="bold|italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin2"
+                        android:layout_toLeftOf="@+id/pin2"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p4"
+                        android:textStyle="bold|italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin6"
+                        style="@android:style/TextAppearance.DeviceDefault"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin3"
+                        android:layout_toRightOf="@+id/pin3"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p6"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="20sp"
+                        android:textStyle="bold|italic|normal" />
+
+                    <CheckBox
+                        android:id="@+id/pin7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin4"
+                        android:layout_alignParentLeft="false"
+                        android:layout_toLeftOf="@+id/pin4"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p7"
+                        android:textStyle="bold|italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin4"
+                        android:layout_toRightOf="@+id/pin4"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p8"
+                        android:textStyle="bold|italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin6"
+                        android:layout_toRightOf="@+id/pin6"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p10"
+                        android:textAllCaps="false"
+                        android:textStyle="bold|italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin5"
+                        android:layout_toRightOf="@+id/pin5"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p9"
+                        android:textStyle="bold|italic" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/edit_match_typeTxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/choose_pins2"
+                    android:textStyle="normal"
+                    android:typeface="sans" />
+
+                <RelativeLayout
+                    android:id="@+id/secondThrowPins"
+                    android:layout_width="match_parent"
+                    android:layout_height="249dp"
+                    android:layout_gravity="center" >
+
+                    <CheckBox
+                        android:id="@+id/pin21"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="10dp"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p1"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin22"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin21"
+                        android:layout_toLeftOf="@+id/pin21"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p2"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin23"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin21"
+                        android:layout_toRightOf="@+id/pin21"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p3"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin25"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin23"
+                        android:layout_toLeftOf="@+id/pin23"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p5"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin24"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin22"
+                        android:layout_toLeftOf="@+id/pin22"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p4"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin26"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin23"
+                        android:layout_toRightOf="@+id/pin23"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p6"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin27"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin24"
+                        android:layout_toLeftOf="@+id/pin24"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p7"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin28"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin24"
+                        android:layout_toRightOf="@+id/pin24"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p8"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin210"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin26"
+                        android:layout_toRightOf="@+id/pin26"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p10"
+                        android:textStyle="italic" />
+
+                    <CheckBox
+                        android:id="@+id/pin29"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/pin25"
+                        android:layout_toRightOf="@+id/pin25"
+                        android:button="@drawable/selector_check"
+                        android:gravity="right"
+                        android:text="@string/p9"
+                        android:textStyle="italic" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:shrinkColumns="*"
+                android:stretchColumns="*" >
+
+                <TableRow
+                    android:id="@+id/table_button_row_fall_pin"
+                    
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:shrinkColumns="*"
+                    android:stretchColumns="*"
+                    tools:ignore="UselessParent" >
+
+                    <Button
+                        android:id="@+id/editorOk"
+                        style="?buttonText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="15dp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical|center_horizontal|center"
+                        android:text="@string/btn_save"
+                        android:typeface="monospace" />
+
+                    <Button
+                        android:id="@+id/EditorCancel"
+                        style="?buttonText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="15dp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical|center_horizontal|center"
+                        android:text="@string/btn_cancel"
+                        android:typeface="monospace" />
+
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</ScrollView>

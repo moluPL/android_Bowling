@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    style="?backgroundTheme"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/search_dialog_txtView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_search_text" />
+
+    <EditText
+        android:id="@+id/search_dialog_editText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text|textNoSuggestions"
+        android:maxLines="2" >
+
+        <requestFocus
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </EditText>
+
+<TableLayout 
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"  
+   		android:stretchColumns="*">
+	
+    <TableRow
+        	style="?android:attr/buttonBarStyle"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content" >
+
+    	<Button
+    	    android:id="@+id/search_dialog_ok_btn"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    style="?buttonText"
+    	    android:text="@android:string/ok" />
+
+	    <Button
+	        android:id="@+id/search_dialog_cancel_btn"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        style="?buttonText"
+	        android:text="@android:string/cancel" />
+
+	    </TableRow>
+</TableLayout>
+</LinearLayout>
